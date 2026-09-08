@@ -1,266 +1,242 @@
 {
-  "generated_at": "2026-08-21T23:11:04.972640Z",
+  "generated_at": "2026-09-08T00:45:22.740670Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-21",
-  "count_today": 7,
+  "latest_date": "2026-09-07",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-08-21",
-      "title": "都Agent时代了，我还是想分享给你这12个我最常用的Prompt。",
-      "summary": "卡兹克筛选了12个实战提示词，覆盖提问、高效学习、难题拆解、理性决策、自我洞察五大场景，包含苏格拉底问诊、双层学习解释、横纵分析、专家会诊、双向钢人论证、天赋挖掘、人生设计等模板。能够帮你辨别信息幻觉，推演多元方案，完成深度的自我梳理，快速拉高日常和工作里的AI协作质量。",
-      "url": "https://waytoagi.feishu.cn/wiki/UbVKwWbnviXI4CkmCMncdNgJnBf?from=from_copylink"
+      "date": "2026-09-07",
+      "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？",
+      "summary": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
+      "url": "https://waytoagi.feishu.cn/wiki/SXbSwZdLRi5Dd8kqWQEcWfgmn4g?from=from_copylink"
     },
     {
-      "date": "2026-08-21",
-      "title": "模型来源已不再重要，FDE已经在日本普及？｜Linkloud 东京沙龙实录（一）",
-      "summary": "Linkloud 在东京沙龙的这场对话涵盖了五个层层递进的问题：过去一年 AI 真正跨过了什么门槛、日本企业的态度如何转变、中国开源模型的接受度、PoC 到规模化落地之间的鸿沟在哪里、企业最终在为什么买单？一起来看看具体都输出了哪些见解！",
-      "url": "https://waytoagi.feishu.cn/wiki/GlQWweMDDiTDICkaUHjcRHqfn6c?from=from_copylink"
+      "date": "2026-09-07",
+      "title": "GPT-6 Astra 提示词大师课",
+      "summary": "很多人升级 GPT-6 Astra 后，最容易犯的错就是把旧的 AGENTS.md、超长的Skill继续塞进去，结果模型变强了，提示词反而拖后腿。作者把 Astra需要重新控制的点讲得很清楚：自主性、指令优先级、写作风格、子Agent委派、验证尺度。然后又用8个模块拆出了提示词框架——目标、上下文、优先级、自主边界、工具、输出、验证、停止条件。",
+      "url": "https://waytoagi.feishu.cn/wiki/AyyuwpgrYiSzJNkdRhjciTk4nlh?from=from_copylink"
     },
     {
-      "date": "2026-08-21",
-      "title": "智能体系统设计",
-      "summary": "很多人把Agent的成败全部押在模型能力上，真正的瓶颈其实在harness。这份实战指南从工具定义、提示词架构、双层记忆、编排策略到人机回环给出了一套可落地的设计范式。可以试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/IxpKwTTtei4H47kVNiic1pSznaf?from=from_copylink"
+      "date": "2026-09-07",
+      "title": "GEO 排名因子之一：Entity 和主题权重",
+      "summary": "做SEO/GEO，最容易一上来盯着热词和流量：内容越写越散，AI 反而搞不清你的网站究竟解决什么问题，还可能引来一堆无效访问。在作者看来，核心是先做好网站 Entity 实体定义。先把身份定稳，后续SEO/GEO 才不会跑偏，收获真正有转化价值的流量。",
+      "url": "https://waytoagi.feishu.cn/wiki/FZMkwK579i9aChko8tNcqQ5snpc?from=from_copylink"
     },
     {
-      "date": "2026-08-21",
-      "title": "为压进我十年设计经验的 PPT Skill 更新了演讲者视图",
-      "summary": "臧师傅的PPT Skill上线了演讲者视图，无需插件，按下P键即可开启双窗口模式。AI自动生成每页口述备注，把大纲要点、案例、转场单独留存，不会污染演示页面。除此之外，还自带计时与排练统计，可以快速定位超时页面。同时还具备屏幕同步校验、黑屏冻结、激光笔标记等功能，可以有效规避线下分享的临场失误。",
-      "url": "https://waytoagi.feishu.cn/wiki/MhYvwqpaQiWQfFkRGdycpoFTnmf?from=from_copylink"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "V4-Flash-Vision-Exp 上线，开启多模态 API 服务",
-      "summary": "全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台！",
-      "url": "https://waytoagi.feishu.cn/wiki/TIjUwTuTrilyllklzYYcNLwin3b?from=from_copylink"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "AI 硬件产品上市认证与合规指南",
-      "summary": "这份AI硬件上市合规指南拆解了国内、欧盟、美国三大主流市场的准入规则，覆盖无线、电池安全、数据隐私、AI监管等各类风险点。结合硬件功能、销售地域给出判定逻辑，搭配真实产品案例、研发各阶段时间线、申请材料清单与高频踩坑误区。",
-      "url": "https://waytoagi.feishu.cn/wiki/BuImwAAYMiqAN8kRoV3crmwRnHd?from=from_copylink"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "AI 工程技能地图：构建和部署 AI 应用",
-      "summary": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
-      "url": "https://waytoagi.feishu.cn/wiki/RIiEwOam7ie5oLkKpVjcyap2nfd?from=from_copylink"
+      "date": "2026-09-07",
+      "title": "6000字故事｜带你入门 GPT-6 Astra ，小白直接照着做",
+      "summary": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
+      "url": "https://waytoagi.feishu.cn/wiki/F0kAwUNd7ioTYnkJUGac3BLWnBd?from=from_copylink"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 34,
   "updates_7d": [
     {
-      "date": "2026-08-21",
-      "title": "都Agent时代了，我还是想分享给你这12个我最常用的Prompt。",
-      "summary": "卡兹克筛选了12个实战提示词，覆盖提问、高效学习、难题拆解、理性决策、自我洞察五大场景，包含苏格拉底问诊、双层学习解释、横纵分析、专家会诊、双向钢人论证、天赋挖掘、人生设计等模板。能够帮你辨别信息幻觉，推演多元方案，完成深度的自我梳理，快速拉高日常和工作里的AI协作质量。",
-      "url": "https://waytoagi.feishu.cn/wiki/UbVKwWbnviXI4CkmCMncdNgJnBf?from=from_copylink"
+      "date": "2026-09-07",
+      "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？",
+      "summary": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？读懂这套层层堆砌的演化逻辑，能帮你看透Agent各类组件的存在意义，避开架构设计误区，更理性地做智能体方案选型与搭建。",
+      "url": "https://waytoagi.feishu.cn/wiki/SXbSwZdLRi5Dd8kqWQEcWfgmn4g?from=from_copylink"
     },
     {
-      "date": "2026-08-21",
-      "title": "模型来源已不再重要，FDE已经在日本普及？｜Linkloud 东京沙龙实录（一）",
-      "summary": "Linkloud 在东京沙龙的这场对话涵盖了五个层层递进的问题：过去一年 AI 真正跨过了什么门槛、日本企业的态度如何转变、中国开源模型的接受度、PoC 到规模化落地之间的鸿沟在哪里、企业最终在为什么买单？一起来看看具体都输出了哪些见解！",
-      "url": "https://waytoagi.feishu.cn/wiki/GlQWweMDDiTDICkaUHjcRHqfn6c?from=from_copylink"
+      "date": "2026-09-07",
+      "title": "GPT-6 Astra 提示词大师课",
+      "summary": "很多人升级 GPT-6 Astra 后，最容易犯的错就是把旧的 AGENTS.md、超长的Skill继续塞进去，结果模型变强了，提示词反而拖后腿。作者把 Astra需要重新控制的点讲得很清楚：自主性、指令优先级、写作风格、子Agent委派、验证尺度。然后又用8个模块拆出了提示词框架——目标、上下文、优先级、自主边界、工具、输出、验证、停止条件。",
+      "url": "https://waytoagi.feishu.cn/wiki/AyyuwpgrYiSzJNkdRhjciTk4nlh?from=from_copylink"
     },
     {
-      "date": "2026-08-21",
-      "title": "智能体系统设计",
-      "summary": "很多人把Agent的成败全部押在模型能力上，真正的瓶颈其实在harness。这份实战指南从工具定义、提示词架构、双层记忆、编排策略到人机回环给出了一套可落地的设计范式。可以试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/IxpKwTTtei4H47kVNiic1pSznaf?from=from_copylink"
+      "date": "2026-09-07",
+      "title": "GEO 排名因子之一：Entity 和主题权重",
+      "summary": "做SEO/GEO，最容易一上来盯着热词和流量：内容越写越散，AI 反而搞不清你的网站究竟解决什么问题，还可能引来一堆无效访问。在作者看来，核心是先做好网站 Entity 实体定义。先把身份定稳，后续SEO/GEO 才不会跑偏，收获真正有转化价值的流量。",
+      "url": "https://waytoagi.feishu.cn/wiki/FZMkwK579i9aChko8tNcqQ5snpc?from=from_copylink"
     },
     {
-      "date": "2026-08-21",
-      "title": "为压进我十年设计经验的 PPT Skill 更新了演讲者视图",
-      "summary": "臧师傅的PPT Skill上线了演讲者视图，无需插件，按下P键即可开启双窗口模式。AI自动生成每页口述备注，把大纲要点、案例、转场单独留存，不会污染演示页面。除此之外，还自带计时与排练统计，可以快速定位超时页面。同时还具备屏幕同步校验、黑屏冻结、激光笔标记等功能，可以有效规避线下分享的临场失误。",
-      "url": "https://waytoagi.feishu.cn/wiki/MhYvwqpaQiWQfFkRGdycpoFTnmf?from=from_copylink"
+      "date": "2026-09-07",
+      "title": "6000字故事｜带你入门 GPT-6 Astra ，小白直接照着做",
+      "summary": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
+      "url": "https://waytoagi.feishu.cn/wiki/F0kAwUNd7ioTYnkJUGac3BLWnBd?from=from_copylink"
     },
     {
-      "date": "2026-08-21",
-      "title": "V4-Flash-Vision-Exp 上线，开启多模态 API 服务",
-      "summary": "全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台！",
-      "url": "https://waytoagi.feishu.cn/wiki/TIjUwTuTrilyllklzYYcNLwin3b?from=from_copylink"
+      "date": "2026-09-06",
+      "title": "详解 大语言模型 的 KV 缓存工程",
+      "summary": "这篇文章把 KV 缓存工程拆成一张清晰的地图：从公式看成本来源，再对比GQA/MQA、跨层共享、滑动窗口、MLA、量化、驱逐、分页、前缀复用、CPU 卸载等12种方案，讲清楚了每种方式到底省了什么、代价是什么。做 LLM 推理部署、长上下文应用和成本优化的朋友，可以读一读。",
+      "url": "https://waytoagi.feishu.cn/wiki/KjKIwbuVJiPbSgk3S5xcZCRonIc?from=from_copylink"
     },
     {
-      "date": "2026-08-21",
-      "title": "AI 硬件产品上市认证与合规指南",
-      "summary": "这份AI硬件上市合规指南拆解了国内、欧盟、美国三大主流市场的准入规则，覆盖无线、电池安全、数据隐私、AI监管等各类风险点。结合硬件功能、销售地域给出判定逻辑，搭配真实产品案例、研发各阶段时间线、申请材料清单与高频踩坑误区。",
-      "url": "https://waytoagi.feishu.cn/wiki/BuImwAAYMiqAN8kRoV3crmwRnHd?from=from_copylink"
+      "date": "2026-09-06",
+      "title": "改硬件/做3D/PPT/自动剪辑/... GPT-6 Astra的重置额度我一篇实测完了",
+      "summary": "卡尔用 GPT-6 Astra 连续实测了外设快捷键配置、罗技鼠标工作流、Blender建模与运动镜头、3D 游戏、真人口播剪辑、PPT二次美化多个实战案例。快来看看效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/Q4KFw7WVeiD4I1keMXDcpFE0nq6?from=from_copylink"
     },
     {
-      "date": "2026-08-21",
-      "title": "AI 工程技能地图：构建和部署 AI 应用",
-      "summary": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
-      "url": "https://waytoagi.feishu.cn/wiki/RIiEwOam7ie5oLkKpVjcyap2nfd?from=from_copylink"
+      "date": "2026-09-06",
+      "title": "手把手教你把摄像头接入WorkBuddy：宠物看护项目零基础100%复刻教程，可拓展多应用场景",
+      "summary": "这篇文章适合养宠人、智能家居玩家，以及想用WorkBuddy跑通第一个Agent项目的小白看。作者借助Agent对接家用监控摄像头，实现了自动查找宠物、定时巡检、生成宠物日记与异常提醒。项目已经开源，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/Hk1Jw88eWieZdekiDGmc7nStnNh?from=from_copylink"
     },
     {
-      "date": "2026-08-20",
-      "title": "全球AI创造力发展报告2026-AI教育.pdf",
-      "summary": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
-      "url": "https://waytoagi.feishu.cn/wiki/P4ilw4bWhifrRjkhSvec6mLDnNd?from=from_copylink"
+      "date": "2026-09-06",
+      "title": "万字长文！AI大模型开源史：谁把模型交到了普通人手里？",
+      "summary": "这篇长文复盘了 2022‑2025 开源模型的发展历程。纵览 LLaMA 引爆社区、国产模型崛起、DeepSeek‑R1 搅动全球市场，直至 OpenAI 重新拥抱开放权重的行业转折。可以帮你从权重、代码、数据、许可证四个维度甄别模型的真实开放程度，跳出参数崇拜，看懂开源模型给普通开发者带来的机会与价值。",
+      "url": "https://waytoagi.feishu.cn/wiki/YRZxwvhPGigVd2koKyacwgxknXg?from=from_copylink"
     },
     {
-      "date": "2026-08-20",
-      "title": "《100 个问题》系列丛书",
-      "summary": "这份《DeepSeek Harness的100 个问题》适合刚刷到Harness但看不懂的人，也适合已经在用Agent干活、想搞清楚“为什么别人用同一个模型更稳”的开发者。",
-      "url": "https://waytoagi.feishu.cn/wiki/YTt3wPPIeixEK5kbJPnc0YL7nTf?from=from_copylink"
+      "date": "2026-09-06",
+      "title": "Codex 实战系列｜ 史上最全 PPT 做做技能合集",
+      "summary": "很多人用AI做 PPT，第一步就卡在“到底该用哪个工具”。作者把Codex 里常见的 PPT Skill 按场景进行了划分。经常做培训、汇报、演讲的人，可以直接拿它当选型清单，少踩一些“格式交不了、后期改不动”的坑。",
+      "url": "https://waytoagi.feishu.cn/wiki/LiZdwmeObi3VBQk6uIicuHZAnbd?from=from_copylink"
     },
     {
-      "date": "2026-08-20",
-      "title": "YC前负责人：如何找到 to C 的创业点子丨Dalton + Michael",
-      "summary": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
-      "url": "https://waytoagi.feishu.cn/wiki/AVKNweCR5i1mOPkUE9NcRo1mnxc?from=from_copylink"
+      "date": "2026-09-06",
+      "title": "8.31—9.6｜本周顶级 AI 论文",
+      "summary": "最近看Agent论文，很容易被一堆新名词绕晕；本周精选的10篇论文帮你把这一周真正值得关注的方向拎了出来。内容覆盖长上下文怎么降低成本，编码Agent如何连续性开发，Skill 怎么从运行经验里实现自我进化，长任务怎样用显式状态替代无限聊天记录，以及推荐系统、电商经营、研究类Agent、长期记忆和持久化Agent的新评测。",
+      "url": "https://waytoagi.feishu.cn/wiki/WuCCw2RuuiWCVnkmSaTc73BjnOc?from=from_copylink"
     },
     {
-      "date": "2026-08-20",
-      "title": "MiniMax Design：从操作像素，到操作语义和表达意图",
-      "summary": "MiniMax Design发布，是一款把多模态模型能力变成真实可用的生产力的Harness。H3负责提供视频理解、生成、编辑和参考控制能力，MiniMax Design则把这些能力组织成可执行的创作链路，尤其适合视频编辑、商业内容生产这类既要理解素材、又要精准修改和交付的场景。",
-      "url": "https://waytoagi.feishu.cn/wiki/NohjwrL5OiP0xfkgXRccUASBnOf?from=from_copylink"
+      "date": "2026-09-05",
+      "title": "大模型评测终极指南",
+      "summary": "大模型排行榜的很多分数其实没那么“干净”：题目会被刷爆、训练数据可能污染测试集，甚至标准答案本身也会出错。这篇大模型评测指南从 MMLU、GSM8K 到 SWE-bench、Terminal-Bench，拆解了评测集为什么会失效，模型怎么 reward hacking，榜单又该怎样被审计。读完再看跑分，你会更知道该问哪些关键问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/K3uvwXVyHi0FoSkatvacuTuVnef?from=from_copylink"
     },
     {
-      "date": "2026-08-20",
-      "title": "DAN KOE：给我 20 分钟，让你变得无法被操控",
-      "summary": "如果你经常刷完信息更焦虑，也说不清自己到底获得了什么，这篇很适合你看。Dan Koe把“被操控”拆成三个思维层级：NPC只会按脚本反应，主角开始质疑和选择，程序员能观察自己的思考，并主动切换视角。或许能帮你把注意力从反应模式里拽回来，重新变成自己的操作系统。",
-      "url": "https://waytoagi.feishu.cn/wiki/QtPdwqNPGiVJ82kPRCOcBPQYneg?from=from_copylink"
+      "date": "2026-09-05",
+      "title": "图解 ASR 和 TTS：HuggingFace 开源模型测评",
+      "summary": "作者实测了 HuggingFace 上两款开源语音模型：Hojo-ASR-Multi-V1 负责“听”，普通话、粤语和多语种表现不错，但四川话、专有名词和强噪声容易翻车；Hojo-TTS-Light-40M 负责“说”，体积小、CPU 可跑，适合端侧轻量合成。适合想本地部署 ASR/TTS 的开发者和创作者看！",
+      "url": "https://waytoagi.feishu.cn/wiki/EgF7wL21Dig44Lkp0PIcZNUhn5g?from=from_copylink"
     },
     {
-      "date": "2026-08-20",
-      "title": "2026 年 成为Agent工程师的12 步路线图—— Loops，Graphs，Evals，Context，Harness",
-      "summary": "这是完整的 12 步路线图，涵盖真正决定智能体能否工作的七大支柱：上下文、工具、记忆、循环、图、开发框架、评估——每一步都有验证其有效性的 Claude 工作流。",
-      "url": "https://waytoagi.feishu.cn/wiki/DlHIwfDqoiylXSktdSccaB0Gnwe?from=from_copylink"
+      "date": "2026-09-05",
+      "title": "Harness自进化全景：三种范式与六个系统的实现思路",
+      "summary": "作者把 Harness 自进化拆成了三种范式：人工调提示和工具配置；Meta-Harness 让外部 Agent 搜索和改 Harness；Self-Harness 让模型基于失败轨迹改自己的 Harness。或许可以帮你看到 Agent 能力真正变强的底层路线。",
+      "url": "https://waytoagi.feishu.cn/wiki/Kf2OwPqhriUQrEk27D7cmgnVnBg?from=from_copylink"
     },
     {
-      "date": "2026-08-19",
-      "title": "猫叔送你一本50万字的RPG游戏设计宝典",
-      "summary": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
-      "url": "https://waytoagi.feishu.cn/wiki/WVF3wGP61iZDylktkBtcNp9cnsh?from=from_copylink"
+      "date": "2026-09-05",
+      "title": "AI网站前端设计工作流：小白保姆级教程",
+      "summary": "这篇文章适合想用 AI 做网页的小白、设计师、产品和前端入门者看。作者把流程拆得很详细，大家准备做网站前，可以先照着这个思路跑一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/LzBzwQcnJiejvsk1oejcIN3ZnTh?from=from_copylink"
     },
     {
-      "date": "2026-08-19",
-      "title": "本地跑模型、做微调，现在可以用同一套工具完成：Unsloth",
-      "summary": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
-      "url": "https://waytoagi.feishu.cn/wiki/ROglwXG4Aix56ukh1OpcQfJYnVg?from=from_copylink"
+      "date": "2026-09-05",
+      "title": "2026最新大模型地图导览，万字长文教你认识模型，选对模型，用好模型——人工智能应用基础教程首课",
+      "summary": "每次新模型发布，很多人都会问“哪个最好用”，但其实是很多基础概念大家都没搞懂。这篇文章搭建了一套针对小白的 AI 认知地图，还结合大量现实案例拆解了大模型幻觉成因，梳理了海内外主流模型谱系，并对照实际工作场景给出了选型思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/SJzGw1RIbi0CwWkx0nncmBYynVe?from=from_copylink"
     },
     {
-      "date": "2026-08-19",
-      "title": "把AI变成工作系统的6个步骤丨Silicon Valley Girl",
-      "summary": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
-      "url": "https://waytoagi.feishu.cn/wiki/TH0ywLueQiu8MhkNkr2csAMWnBh?from=from_copylink"
+      "date": "2026-09-04",
+      "title": "重磅！GPT‑6 Astra 案例大合集来了！价格、体验入口，一篇讲清楚",
+      "summary": "小歪整理了GPT‑6 Astra 的超全案例合集、还有详细的跑分变化、价格和体验入口。",
+      "url": "https://waytoagi.feishu.cn/wiki/LgbKw4I75iKpJTkZqNlczLZSn5d?from=from_copylink"
     },
     {
-      "date": "2026-08-19",
-      "title": "不看一行代码！我用AI把爆火的“宝宝三假医院”做成了小程序",
-      "summary": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
-      "url": "https://waytoagi.feishu.cn/wiki/Voa1wqJ9LiEHaikYVLbcObMwnsf?from=from_copylink"
+      "date": "2026-09-04",
+      "title": "如何在 8 个月内成为一名机器学习工程师（完整路线图）",
+      "summary": "很多人学机器学习，卡住的地方并不是资料不够，而是路线图太满。这篇文章把8个月拆成4个阶段。想转行机器学习工程师、又不想被无数个技术名词劝退的人不容错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/LFyiw7WXuiViqykydXActppLnTe?from=from_copylink"
     },
     {
-      "date": "2026-08-19",
-      "title": "Mole 出 Mac 版后，用户教会了我做产品",
-      "summary": "最近作者写了不少关于独立开发的思考，想着要汇总一下，就把他的一款产品从开源CLI做到Mac付费软件这一路聊一聊：他当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。",
-      "url": "https://waytoagi.feishu.cn/wiki/J5GPwplF0iAsj9kL2cucHclQnug?from=from_copylink"
+      "date": "2026-09-04",
+      "title": "GEO项目怎么验收好？不能只看提及率，我们拆出了三层",
+      "summary": "GEO 项目最容易卡在验收：服务商拿出一条提及率曲线，品牌方却还是说不清，这钱到底花得值不值。这篇文章把GEO验收拆成了三层：先看 AI 可见度，品牌有没有出现、排第几、有没有交易卡片；再看内容质量，AI 有没有说对、核心卖点有没有出来、服务商内容有没有被引用；最后看业务结果，成交、线索、官网回流能不能追到来源。",
+      "url": "https://waytoagi.feishu.cn/wiki/SBeTwe1tRivtxqkGMf6cNNc9nPd?from=from_copylink"
     },
     {
-      "date": "2026-08-19",
-      "title": "DeepSeek harness 必装的 7 个插件，让你的使用体感翻倍",
-      "summary": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
-      "url": "https://waytoagi.feishu.cn/wiki/PpQzwwRV9iwCC6kpSnOcyT95n4b?from=from_copylink"
+      "date": "2026-09-04",
+      "title": "DeepSeek Harness背后的“心脏”：Cordis 到底是什么",
+      "summary": "DeepSeek Harness的 \"一切皆插件\" 背后，跑的是一个叫 Cordis 的框架——原本服务于第三方 QQ 机器人，如今被 DeepSeek 用作整个 Agent 运行时的地基。这篇文章，作者用通俗易懂的语言，把 Cordis 的魅力介绍给大家！",
+      "url": "https://waytoagi.feishu.cn/wiki/GfIUwwJ58iIHOIkdzAZcm1f0nee?from=from_copylink"
     },
     {
-      "date": "2026-08-18",
-      "title": "大模型本地部署完整指南：搭建自己的 Agent 工作流，实现Token自由「新手友好」",
-      "summary": "国产开源大模型百花齐放，这些模型能不能不只停留在网页和 API 里，而是真正装进自己的机器，连接本地文件、工具和工作流？ 作者这篇文章尽可能让任何小白玩家都可以轻松驾驭，实现模型本地部署并搭建一套自己的工作流，快来一起跟着试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/CyJrwn8abiUUd9kjjeqcZ25En0g?from=from_copylink"
+      "date": "2026-09-04",
+      "title": "AI 工程技能图谱：使用编码智能体",
+      "summary": "这篇文章把吴恩达对AI工程技能的判断讲的很清晰：用Codex、Claude Code、Cursor这类编码工具的核心在于先规划需求、拆任务、控制智能体自主程度、验证结果、部署监控，再通过AGENTS.md、Skills、MCP 等方式持续优化环境。",
+      "url": "https://waytoagi.feishu.cn/wiki/Xq2gwgBaOixKZWkQQYCcs0q1nif?from=from_copylink"
     },
     {
-      "date": "2026-08-18",
-      "title": "告别AI视频反复抽卡，Seedance 2.5 + 3D预演台才是正确的打开方式",
-      "summary": "AI视频最烧钱的地方，常常藏在空间和运镜里：你脑子里很清楚镜头怎么走、人物站哪、谁挡住谁，一写成提示词，模型就开始猜，最后只能反复抽卡。卡尔用Seedance 2.5+updream预演台给了一个更稳的解法：先用参考图生成粗粒度3D白模，再摆人物、画动线、调机位和关键帧，录好白模后交给Seedance去重渲。一起来看看效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/I2LNwEHl8iZ4mQkr56tcGZ9Nnue?from=from_copylink"
+      "date": "2026-09-04",
+      "title": "2026 我的 Obsidian 完整分享",
+      "summary": "作者把6年 Obsidian 经验讲得很透：从本地 Markdown、双链、常青笔记，到 AI 辅助知识库的 raw / wiki / outputs 分层、AI 输出落文件、定期健康检查。想做个人知识管理、内容输出、AI 知识库的小白和创作者值得收藏慢慢啃。",
+      "url": "https://waytoagi.feishu.cn/wiki/L9Z8wRu3eiIiWEkkfN2cfquKnxe?from=from_copylink"
     },
     {
-      "date": "2026-08-18",
-      "title": "万字长文｜知识库从入门到精通",
-      "summary": "知识库这件事可以很小，小到把一份 PDF 丢给 ChatGPT，也可以很大，大到要接身份系统、业务数据库、本地模型、审计日志和权限策略。这篇文章就从一份文件开始，带你从入门到精通！",
-      "url": "https://waytoagi.feishu.cn/wiki/JQsmwC5vYihYNskPkAQcvWRPn2e?from=from_copylink"
+      "date": "2026-09-03",
+      "title": "昨晚，硅谷经历了AI诸神之战。",
+      "summary": "硅谷新一轮 AI 发布浪潮，比起榜单分数，更值得关注的是 AI 经济学的深刻转变。Gemini 3.8 Flash 把前沿能力下放到平价档位，大幅降低 Agent 工程任务成本；Meta Muse Spark 1.3 通过减少工具调用与 Token 消耗，从任务执行侧削减成本；初创公司 Mostik 探索模型间直接传输隐向量，绕开自然语言通信实现数十倍的成本压缩。推理成本正在从几个完全不同的方向同时往下降。很多当下难以落地的 Agent 应用不久可能会将实现！",
+      "url": "https://waytoagi.feishu.cn/wiki/BwyawEfLAims0UkBE4tc9aSanFf?from=from_copylink"
     },
     {
-      "date": "2026-08-18",
-      "title": "一句话直出各种仙境提示词，这个提示词Skill带你修仙！",
-      "summary": "最近很火的天上白玉京，云中仙宫，很多朋友都很感兴趣。阿真手搓了个营造师 Skill，去任意大家熟悉的Agent装上 Skill，然后给到文中的关键词就可以每次直出3套提示词方案了。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ni5bwUSGTiepHokRF0Qc77tnn1d?from=from_copylink"
+      "date": "2026-09-03",
+      "title": "开源一个拯救你旅行废片的 Skill",
+      "summary": "臧师傅开源了一个可以拯救你旅游废片的Skill，能够将旅行随手拍摄的古建筑、风物照片重构成兼具审美与历史信息的高级文化海报。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/YLoRwNvZYi3RG4kGdq2cAwfTnog?from=from_copylink"
     },
     {
-      "date": "2026-08-18",
-      "title": "一个极度实用的深度思考Prompt，帮你挖出最本质的答案。",
-      "summary": "卡兹克分享了一个极度实用的深度思考Prompt：双向钢人Prompt。它会先帮你重述真实问题，再分别强化“支持你”和“反对你”的最强理由，接着找出真正分歧和关键变量，只问一个最关键的问题，等你回答后再给判断和行动。适合用来做决策、写方案、复盘项目，尤其适合那些“我好像知道答案，但又说不清为什么”的问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/AUAYwSpRBiQZSxk9XtecEHfZn7d?from=from_copylink"
+      "date": "2026-09-03",
+      "title": "如何用 6 个月成为机器人工程师（资源清单）",
+      "summary": "这篇文章适合想转向机器人、具身智能的开发者看。作者给了一条6个月的成长路线：从电子基础、万用表和焊接，到 Arduino/ESP32、电机传感器、机械加工、ROS 2、仿真、控制、视觉，再到 LeRobot、VLA、强化学习和面试作品集，还有100多个链接资源和27个实操项目。希望对你有帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/P18uwTXidiDtQkkpePPcM24vn3c?from=from_copylink"
     },
     {
-      "date": "2026-08-18",
-      "title": "Benchmark 合伙人：为什么下一个爆款AI产品将具备社交功能丨Every",
-      "summary": "Benchmark 合伙人Sarah Tavel这篇播客访谈抛出了一个消费级AI的关键创业思路：模型够用之后，产品竞争会转向用户体验、信任和网络效应。未来的爆款AI产品，可能会让你关注靠谱的人、复用他们的方法、看清提示词和资料来源，并在健康、写作、教育、家庭管理等真实任务里自然沉淀社区内容。",
-      "url": "https://waytoagi.feishu.cn/wiki/PFcywyQoRisrRIkHAtmcVdCMnIg?from=from_copylink"
+      "date": "2026-09-03",
+      "title": "人人都能学会的自进化 Agent 搭建指南",
+      "summary": "这篇文章围绕Loop Engineering，带来了一套可直接复刻的自进化Agent信源工作流实操方案。依托豆包工作联动飞书，借助多维表格、知识库沉淀上下文，把群聊、文档批注作为天然反馈信号。整套系统可以定时采集信息、自动生成推送日报，还能吸收用户反馈迭代监测规则、筛选逻辑与排版模板，持续适配个人偏好。",
+      "url": "https://waytoagi.feishu.cn/wiki/JX2qwjBw1iJZSrkZcf3cMc6DnHg?from=from_copylink"
     },
     {
-      "date": "2026-08-18",
-      "title": "AI视频入门基础——运镜（二）+转场",
-      "summary": "作者整理了12种运镜+8种转场+4套组合连招+5条心法 ，每种都配了通用模板和具体示例，可以直接套用到你自己的AI视频提示词里。",
-      "url": "https://waytoagi.feishu.cn/wiki/NBQUwfPzQimPITkqf3jc7T9Bnke?from=from_copylink"
+      "date": "2026-09-03",
+      "title": "万字长文 ｜ AI Agent 从入门到精通，通俗易懂讲解",
+      "summary": "这份万字长文给大家讲透：Agent原理、ReAct、工具、记忆、RAG、上下文工程、MCP、多智能体、评估与上线。",
+      "url": "https://waytoagi.feishu.cn/wiki/V0PFwTkDSiHEJukIODSc2aM5nPg?from=from_copylink"
     },
     {
-      "date": "2026-08-17",
-      "title": "一张图扒光5个国产模型：Kimi憋半天才动手，豆包忙了293次，GLM最吃状态",
-      "summary": "最近模型更新快的，确实有点看不过来， 而且还都说自己很强 。DeepSeek V4 Pro、GLM-5.3 接连更新，豆包推出了 Seed-Evolving，DeepSeek 还发布了自己的 Harness。模型能力在涨，给模型提供工具和执行环境的 Harness 也在进化。梦飞这篇文章把5个国产编程模型放进了同一个真实的代码仓库，处理同一个 Bug，并用轨迹图记录读文件、搜索、修改、测试、报错全过程。来一起看看各个模型的表现效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/Y8efwjXZgiGtVjk9M5ncRpgjnBg?from=from_copylink"
+      "date": "2026-09-03",
+      "title": "Codex 最推荐的15个skill，每一个都值得收藏！",
+      "summary": "作者精选了 15 个比较实用的Codex Skill，覆盖代码规划、故障排查、浏览器自动化、资料蒸馏、行业资讯搜集等高频场景。快来看看都有哪些？",
+      "url": "https://waytoagi.feishu.cn/wiki/JFu8wqK97iGYbikQBPEcJKIfnch?from=from_copylink"
     },
     {
-      "date": "2026-08-17",
-      "title": "OpenAI设计负责人：AI 时代，设计师该如何转型丨Lenny's Podcast",
-      "summary": "OpenAI设计负责人Ian Silber这期播客很适合设计师、产品经理、AI创业者看。他讲得很直接：AI已经能做出不错的界面和原型，设计师更要守住判断力——服务谁、解决什么、哪些体验值得保留。来一起看看，AI 时代，设计师该如何转型？",
-      "url": "https://waytoagi.feishu.cn/wiki/LaWMwErzpi5llLkIE5zcSlzpnsg?from=from_copylink"
+      "date": "2026-09-02",
+      "title": "打斗提示词总写不明白？分享我的动作导演 Skill。",
+      "summary": "阿真开源了一个动作导演 Skill，可以把模糊的打斗想法转化成分镜式结构化提示词。文中还展示了大量跨风格实测样例，拆解了战斗目标、攻防因果、运镜与角色连续性的核心创作逻辑，配套给出了调试排错的方案。大家既能直接拿来生成动作视频，也可以校验优化自己写的动作提示词，提升打戏成片质量。",
+      "url": "https://waytoagi.feishu.cn/wiki/LfATwrOnli2XZbkBKMLcbUiJnng?from=from_copylink"
     },
     {
-      "date": "2026-08-17",
-      "title": "Agent的上限，可能不在模型，而在团队知识",
-      "summary": "Agent真正上生产后，最先翻车的往往不是模型，而是知识：找不准、喂不进、旧内容越堆越乱。这篇文章从安全中心团队的真实实践出发，拆清楚了怎么定目标、搭知识体系、处理知识生产、检索、注入和淘汰，最后跑出一套能持续迭代的知识飞轮。想让Agent从“偶尔好用”变成“稳定可用”，这套经验很值得参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/LDVewr1dUiZ48tkp4iAc9hUInhe?from=from_copylink"
+      "date": "2026-09-02",
+      "title": "手把手教你，接入WorkBuddy开放平台",
+      "summary": "腾讯 WorkBuddy 开放平台正式上线，免费向个人与企业开发者开放，直接提供了成熟的 Agent 底座。冷逸拆解了下这次WorkBuddy一口气开放的5个生态能力：Buddy应用、专家、Skill、连接器和硬件，希望能够对你有所帮助。",
+      "url": "https://waytoagi.feishu.cn/wiki/Hm1ewv0seiHRZTkHoqMcBCpXnVf?from=from_copylink"
     },
     {
-      "date": "2026-08-17",
-      "title": "AI音乐周刊 W.A 041",
-      "summary": "AI音乐领域在这一周有个明显的信号：平台不只在拼生成效果，也开始拼版权合规、分发规则和专业工作流。Suno开始限制下载并强化C2PA溯源，Spotify给AI Persona打标并默认切断推荐流量，Suno与BMG合作走向合规共建。同时还有7篇高质量论文，覆盖乐器合成、音频生成与模型评测。",
-      "url": "https://waytoagi.feishu.cn/wiki/OiyFwKrCaipukTkmQUPcdaCbn2b?from=from_copylink"
+      "date": "2026-09-02",
+      "title": "实测Claude Fable5.1，我愿称长时间Agent任务和浏览器自动化上稳压GPT5.6",
+      "summary": "Claude Fable 5.1 正式更新，Agent 科研能力大幅提升，缓存读取成本也显著降低。卡尔基于多个真实项目进行了实测，发现它在浏览器自动化、前端 UI 迭代、开发Skill、复刻高完成度 3D 游戏上的表现都很亮眼。不过订阅套餐也存在营销噱头、写作能力也没有进步。希望给到各位开发者一些理性参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/JM9owje6hi98hFktHUXcu3yxn1g?from=from_copylink"
     },
     {
-      "date": "2026-08-17",
-      "title": "AI PPT全场景、多维度实用测评（打工人实测，早下班有救！）",
-      "summary": "芋头小宝这篇文章用打工人最常用的PPT场景，横评了最近出来的几个办公型Agent在PPT文档解析和生成方面的能力差距。经常需要用AI工具做PPT的人，可以先看这篇少走点弯路。",
-      "url": "https://waytoagi.feishu.cn/wiki/YFszwFAM5ikgVRkKoQecKlG5nyd?from=from_copylink"
+      "date": "2026-09-02",
+      "title": "学生党看过来！你的学生证，能白嫖几乎所有主流 AI 工具。",
+      "summary": "开学这段时间，身边不少同学朋友都在忙着置办新装备、纠结要不要续费各种 AI 工具和云服务。其实，很多人手头的学生身份，每年各大厂都在给配额，从 AI 助手、代码生成工具，到云服务器、大模型算力，甚至买电脑和机票都有折扣。作者把能查到的官方页面逐个过了一遍，踢掉失效和关停的，整理出了这份包含 35 项确定能用的开学季 AI 与互联网学生优惠清单。",
+      "url": "https://waytoagi.feishu.cn/wiki/DYvmwPBrBiaGx4kfuynceBdJnMc?from=from_copylink"
     },
     {
-      "date": "2026-08-16",
-      "title": "科罗拉多大学教授：当AI替你完成越来越多工作，怎样保住自己的学习能力？丨EO",
-      "summary": "AI最危险的地方，可能是让你太快拿到答案，然后误把“看懂了解释”当成自己真的会了。Tom Yeh是科罗拉多大学博尔德分校计算机科学副教授，也是AI by Hand的发起人。他这期播客带我们拆解了下怎样才能保住自己的学习能力！",
-      "url": "https://waytoagi.feishu.cn/wiki/A75Nw8jkmizYBbkXEkOcmyc1nbd?from=from_copylink"
+      "date": "2026-09-02",
+      "title": "万字长文｜Grok Bot 从入门到精通",
+      "summary": "Grok Bot带来全新的Agent范式，跳出传统对话式交互，把AI塑造成长期在岗的数字员工，依托云电脑实现后台持续运行，还支持Bot之间任务交接协作。作者这篇文章拆解了完整的落地路径，从岗位撰写、Skill沉淀、定时任务配置到权限审批，搭配电商团队实战案例，可以帮助你理解岗位化Agent的搭建思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/UUV7wbUIIigATiksNzpcaRaCn1c?from=from_copylink"
     },
     {
-      "date": "2026-08-16",
-      "title": "如何设计 Agent Harness",
-      "summary": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
-      "url": "https://waytoagi.feishu.cn/wiki/WTWZw8eu7iZ9rckqbSXcGdcgnQh?from=from_copylink"
+      "date": "2026-09-02",
+      "title": "一口气搞懂 Transformer：注意力、QKV、残差连接全讲透",
+      "summary": "这篇内容顺着技术演进脉络通俗拆解了Transformer的底层原理，从N‑gram、RNN、LSTM遗留的性能缺陷切入，一步步推导自注意力机制、QKV、多头注意力、位置编码、前馈网络、残差连接、编解码器等核心组件的诞生缘由。或许可以帮你快速建立关于Transformer架构的完整认知。",
+      "url": "https://waytoagi.feishu.cn/wiki/AyRHwsRUOizvWDkvqwQcIQqKn7c?from=from_copylink"
     },
     {
-      "date": "2026-08-16",
-      "title": "万字长文｜GitHub 从入门到精通",
-      "summary": "这篇文章，作者从0到1把Git、GitHub、Commit、分支、PR和常见报错都实操了一遍，带你掌握Github协作与工程化的协作能力！",
-      "url": "https://waytoagi.feishu.cn/wiki/Nnb6wEwhri3WyZkdMy5cQJxWnAf?from=from_copylink"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "8.10—8.16｜本周 AI 论文精选",
-      "summary": "本周AI论文合集直击大模型与Agent落地的各类隐蔽痛点，或许可以帮你规避不少隐藏陷阱。包含修正缩放定律、大幅降低预训练测算成本的新公式，也曝光了推理轨迹窃取、心智病毒传播等新兴的安全风险。此外还解析了提示词恶性膨胀、上下文压缩丢失约束、底层架构暗藏缺陷等工程难题。做Agent、大模型研发的开发者们可以借鉴下！",
-      "url": "https://waytoagi.feishu.cn/wiki/B0QvwfQdNicPL2krQclc0MF8nCH?from=from_copylink"
+      "date": "2026-09-02",
+      "title": "DeepSeek Harness橙皮书，一文读懂最新Agent工作原理，附喂饭级安装教程",
+      "summary": "围绕开源的DeepSeek Harness，作者结合花叔的120页橙皮书拆解了“一切皆插件”的Agent底层架构，以及模型、工具、Harness工作台的分工，搭配文件处理实测案例，还解析了权限管控、日志排查、PTC模式等核心概念。还附带完整本地部署实操指引，可以帮你快速分辨不同框架的适配场景，规避配置与权限方面的各类踩坑点。",
+      "url": "https://waytoagi.feishu.cn/wiki/NOkFwd8F9iAJeMk0JxecMhZhnyf?from=from_copylink"
     }
   ],
   "warning": null,
