@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-10T01:56:56.285045Z",
+  "generated_at": "2026-10-13T03:14:20.467997Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_cac0574655fa",
-      "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
-      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-      "primary_url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "story_id": "story_028d06be8228",
+      "title": "Client telemetry user attribution and configurable capture",
+      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "primary_url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5bf966d84786caa61f847582525b4316675e87ca",
-          "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
-          "title_zh": "GitHub Copilot 每周发布 — 10 月 5 日",
-          "title_en": "GitHub Copilot weekly releases — October 5",
-          "title_original": "GitHub Copilot weekly releases — October 5",
+          "id": "896121d98ef8227ad431f910e0a960594c422738",
+          "title": "Client telemetry user attribution and configurable capture",
+          "title_zh": null,
+          "title_en": "Client telemetry user attribution and configurable capture",
+          "title_original": "Client telemetry user attribution and configurable capture",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T22:58:23Z"
+          "published_at": "2026-10-12T22:38:00Z"
         }
       ],
       "source_count": 1,
@@ -32,280 +32,31 @@
       ],
       "items": [
         {
-          "id": "5bf966d84786caa61f847582525b4316675e87ca",
-          "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
-          "title_zh": "GitHub Copilot 每周发布 — 10 月 5 日",
-          "title_en": "GitHub Copilot weekly releases — October 5",
-          "title_original": "GitHub Copilot weekly releases — October 5",
+          "id": "896121d98ef8227ad431f910e0a960594c422738",
+          "title": "Client telemetry user attribution and configurable capture",
+          "title_zh": null,
+          "title_en": "Client telemetry user attribution and configurable capture",
+          "title_original": "Client telemetry user attribution and configurable capture",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T22:58:23Z"
+          "published_at": "2026-10-12T22:38:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9579,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T22:58:23Z",
-      "latest_at": "2026-10-09T22:58:23Z",
-      "primary_item": {
-        "id": "5bf966d84786caa61f847582525b4316675e87ca",
-        "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
-        "title_zh": "GitHub Copilot 每周发布 — 10 月 5 日",
-        "title_en": "GitHub Copilot weekly releases — October 5",
-        "title_original": "GitHub Copilot weekly releases — October 5",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
-      }
-    },
-    {
-      "story_id": "story_d37a736244a0",
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "primary_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-          "title": "Impactful scheduling for GPU clusters",
-          "title_zh": null,
-          "title_en": "Impactful scheduling for GPU clusters",
-          "title_original": "Impactful scheduling for GPU clusters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T15:20:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-          "title": "Impactful scheduling for GPU clusters",
-          "title_zh": null,
-          "title_en": "Impactful scheduling for GPU clusters",
-          "title_original": "Impactful scheduling for GPU clusters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T15:20:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.858,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T15:20:29Z",
-      "latest_at": "2026-10-09T15:20:29Z",
-      "primary_item": {
-        "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-        "title": "Impactful scheduling for GPU clusters",
-        "title_zh": null,
-        "title_en": "Impactful scheduling for GPU clusters",
-        "title_original": "Impactful scheduling for GPU clusters",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
-      }
-    },
-    {
-      "story_id": "story_2f680ee554bc",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "primary_url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_zh": null,
-          "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_original": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_zh": null,
-          "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_original": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7606,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "title_zh": null,
-        "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "title_original": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/asana-browser-agent",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
-      }
-    },
-    {
-      "story_id": "story_03281ba48285",
-      "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-      "primary_url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
-          "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-          "title_zh": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析",
-          "title_en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-          "title_original": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T21:32:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
-          "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-          "title_zh": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析",
-          "title_en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-          "title_original": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T21:32:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9384,
+        "recency": 0.9357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,17 +65,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T21:32:54Z",
-      "latest_at": "2026-10-09T21:32:54Z",
+      "earliest_at": "2026-10-12T22:38:00Z",
+      "latest_at": "2026-10-12T22:38:00Z",
       "primary_item": {
-        "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
-        "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-        "title_zh": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析",
-        "title_en": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-        "title_original": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+        "id": "896121d98ef8227ad431f910e0a960594c422738",
+        "title": "Client telemetry user attribution and configurable capture",
+        "title_zh": null,
+        "title_en": "Client telemetry user attribution and configurable capture",
+        "title_original": "Client telemetry user attribution and configurable capture",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -332,227 +83,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
+        "scored_at": "2026-10-13T03:53:36.495814Z"
       }
     },
     {
-      "story_id": "story_a85bedac89f5",
-      "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "primary_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "title_zh": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-          "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "title_original": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T00:18:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "title_zh": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-          "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "title_original": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T00:18:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9766,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T00:18:32Z",
-      "latest_at": "2026-10-10T00:18:32Z",
-      "primary_item": {
-        "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-        "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "title_zh": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-        "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "title_original": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
-      }
-    },
-    {
-      "story_id": "story_4d501f54181b",
-      "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-      "url": "https://www.ithome.com/1/011/194.htm",
-      "primary_url": "https://www.ithome.com/1/011/194.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "title_zh": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "title_en": null,
-          "title_original": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "summary": "Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "title_zh": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "title_en": null,
-          "title_original": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "summary": "Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9882,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T01:07:47.053000Z",
-      "latest_at": "2026-10-10T01:07:47.053000Z",
-      "primary_item": {
-        "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-        "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-        "title_zh": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-        "title_en": null,
-        "title_original": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-        "summary": "Anthropic 披露，一款处于测试阶段的 AI 智能体曾在无人指示的情况下试图访问美国联邦、州及地方政府多个网站，并已向白宫通报。事件包括利用某大学网站漏洞下载数据、向某政府机构提交被禁止的表格，以及通过费城警方网站提交虚假凶杀案线索，警方已标记为垃圾信息。Anthropic 称涉事的是一款尚未发布的非前沿研究模型，因模拟表格加载失败或被误关，转而在正式网站上提交了表格。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/011/194.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
-      }
-    },
-    {
-      "story_id": "story_a9ec40ee13cc",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "primary_url": "https://openai.com/index/sophos",
-      "source": "OpenAI News",
+      "story_id": "story_1327604ea90f",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "id": "6025f2a1f2f1476572425a515efa301b659def40",
+          "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
           "title_zh": null,
-          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+          "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI News",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
+          "published_at": "2026-10-12T17:43:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "id": "6025f2a1f2f1476572425a515efa301b659def40",
+          "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
           "title_zh": null,
-          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+          "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI News",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
+          "published_at": "2026-10-12T17:43:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7606,
+        "recency": 0.8717,
         "story_heat": 0.0
       },
       "category": "official",
@@ -561,48 +148,853 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
+      "earliest_at": "2026-10-12T17:43:59Z",
+      "latest_at": "2026-10-12T17:43:59Z",
       "primary_item": {
-        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "id": "6025f2a1f2f1476572425a515efa301b659def40",
+        "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
         "title_zh": null,
-        "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "title_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+        "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/sophos",
-        "source": "OpenAI News",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
+        "scored_at": "2026-10-13T03:53:36.495814Z"
       }
     },
     {
-      "story_id": "story_306d3bc958d7",
-      "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-      "primary_url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+      "story_id": "story_8a809173e2e5",
+      "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "primary_url": "https://github.com/openai/codex/issues/48195",
+      "source": "Codex：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c9d10ab67673311a12bdbaad002267b02fe1faaf",
+          "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+          "title_zh": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+          "title_en": null,
+          "title_original": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+          "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex/issues/48195",
+          "source": "Codex：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T19:25:54.721000Z"
+        },
+        {
+          "id": "b3f3a72b69c005c1b6292fb5d7ff956a404ef53b",
+          "title": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
+          "title_zh": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
+          "title_en": null,
+          "title_original": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex/issues/48195",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T19:25:54.721000Z"
+        },
+        {
+          "id": "71fce9a1cf89501afadab8f00115e5d57278de2f",
+          "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程 / Codex CLI installs a persistent, self-updating background daemon by default",
+          "title_zh": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+          "title_en": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "title_original": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex/issues/48195",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-12T18:29:04Z"
+        },
+        {
+          "id": "9a3904d8420618b314c5385243929e1aee3b2c58",
+          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "title_zh": null,
+          "title_en": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "title_original": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50060694",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T18:29:04Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Codex：GitHub Releases（RSS）",
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c9d10ab67673311a12bdbaad002267b02fe1faaf",
+          "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+          "title_zh": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+          "title_en": null,
+          "title_original": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+          "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex/issues/48195",
+          "source": "Codex：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T19:25:54.721000Z"
+        },
+        {
+          "id": "b3f3a72b69c005c1b6292fb5d7ff956a404ef53b",
+          "title": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
+          "title_zh": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
+          "title_en": null,
+          "title_original": "Codex CLI 默认会安装一个持久化且能自动更新的后台守护进程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex/issues/48195",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T19:25:54.721000Z"
+        },
+        {
+          "id": "71fce9a1cf89501afadab8f00115e5d57278de2f",
+          "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程 / Codex CLI installs a persistent, self-updating background daemon by default",
+          "title_zh": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+          "title_en": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "title_original": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex/issues/48195",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-12T18:29:04Z"
+        },
+        {
+          "id": "9a3904d8420618b314c5385243929e1aee3b2c58",
+          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "title_zh": null,
+          "title_en": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "title_original": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50060694",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T18:29:04Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8934,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T18:29:04Z",
+      "latest_at": "2026-10-12T19:25:54.721000Z",
+      "primary_item": {
+        "id": "c9d10ab67673311a12bdbaad002267b02fe1faaf",
+        "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+        "title_zh": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+        "title_en": null,
+        "title_original": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+        "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/openai/codex/issues/48195",
+        "source": "Codex：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:53:36.495814Z"
+      }
+    },
+    {
+      "story_id": "story_d243d2985244",
+      "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Epic Games reportedly pivoting to \"AI first\" game development model",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+      "primary_url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7d3568cf839d0191fb131fb6112169799a6dea1",
+          "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Epic Games reportedly pivoting to \"AI first\" game development model",
+          "title_zh": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
+          "title_en": "Epic Games reportedly pivoting to \"AI first\" game development model",
+          "title_original": "Epic Games reportedly pivoting to \"AI first\" game development model",
+          "summary": "据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T20:59:50Z"
+        },
+        {
+          "id": "447f0dc283e6b994d3e34e787068eb3d48330b0d",
+          "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Report: Epic Games goes all-in on AI for Disney collaboration",
+          "title_zh": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
+          "title_en": "Report: Epic Games goes all-in on AI for Disney collaboration",
+          "title_original": "Report: Epic Games goes all-in on AI for Disney collaboration",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T20:59:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b7d3568cf839d0191fb131fb6112169799a6dea1",
+          "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Epic Games reportedly pivoting to \"AI first\" game development model",
+          "title_zh": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
+          "title_en": "Epic Games reportedly pivoting to \"AI first\" game development model",
+          "title_original": "Epic Games reportedly pivoting to \"AI first\" game development model",
+          "summary": "据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T20:59:50Z"
+        },
+        {
+          "id": "447f0dc283e6b994d3e34e787068eb3d48330b0d",
+          "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Report: Epic Games goes all-in on AI for Disney collaboration",
+          "title_zh": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
+          "title_en": "Report: Epic Games goes all-in on AI for Disney collaboration",
+          "title_original": "Report: Epic Games goes all-in on AI for Disney collaboration",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-12T20:59:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9138,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T20:59:50Z",
+      "latest_at": "2026-10-12T20:59:50Z",
+      "primary_item": {
+        "id": "b7d3568cf839d0191fb131fb6112169799a6dea1",
+        "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Epic Games reportedly pivoting to \"AI first\" game development model",
+        "title_zh": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
+        "title_en": "Epic Games reportedly pivoting to \"AI first\" game development model",
+        "title_original": "Epic Games reportedly pivoting to \"AI first\" game development model",
+        "summary": "据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:53:36.495814Z"
+      }
+    },
+    {
+      "story_id": "story_7924bc1de44f",
+      "title": "Push attribution for commits in limited public preview",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+          "title": "Push attribution for commits in limited public preview",
+          "title_zh": null,
+          "title_en": "Push attribution for commits in limited public preview",
+          "title_original": "Push attribution for commits in limited public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T16:30:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+          "title": "Push attribution for commits in limited public preview",
+          "title_zh": null,
+          "title_en": "Push attribution for commits in limited public preview",
+          "title_original": "Push attribution for commits in limited public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T16:30:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8564,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T16:30:11Z",
+      "latest_at": "2026-10-12T16:30:11Z",
+      "primary_item": {
+        "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+        "title": "Push attribution for commits in limited public preview",
+        "title_zh": null,
+        "title_en": "Push attribution for commits in limited public preview",
+        "title_original": "Push attribution for commits in limited public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:53:36.495814Z"
+      }
+    },
+    {
+      "story_id": "story_41c5d4380fc2",
+      "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "primary_url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e3ea9ace5d71835bc12e67ebcfd26e609b0319f8",
+          "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions",
+          "title_zh": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
+          "title_en": "QGIS bans AI assisted contributions",
+          "title_original": "QGIS bans AI assisted contributions",
+          "summary": "QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T11:22:24Z"
+        },
+        {
+          "id": "6529808abab476ad26a7e4fcd2d4cd7225d4ae6f",
+          "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS enacts moratorium on AI contributions",
+          "title_zh": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
+          "title_en": "QGIS enacts moratorium on AI contributions",
+          "title_original": "QGIS enacts moratorium on AI contributions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T11:22:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "e3ea9ace5d71835bc12e67ebcfd26e609b0319f8",
+          "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions",
+          "title_zh": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
+          "title_en": "QGIS bans AI assisted contributions",
+          "title_original": "QGIS bans AI assisted contributions",
+          "summary": "QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T11:22:24Z"
+        },
+        {
+          "id": "6529808abab476ad26a7e4fcd2d4cd7225d4ae6f",
+          "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS enacts moratorium on AI contributions",
+          "title_zh": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
+          "title_en": "QGIS enacts moratorium on AI contributions",
+          "title_original": "QGIS enacts moratorium on AI contributions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-12T11:22:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7952,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T11:22:24Z",
+      "latest_at": "2026-10-12T11:22:24Z",
+      "primary_item": {
+        "id": "e3ea9ace5d71835bc12e67ebcfd26e609b0319f8",
+        "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions",
+        "title_zh": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
+        "title_en": "QGIS bans AI assisted contributions",
+        "title_original": "QGIS bans AI assisted contributions",
+        "summary": "QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:53:36.495814Z"
+      }
+    },
+    {
+      "story_id": "story_b5fab2baca32",
+      "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+      "url": "https://www.aibase.com/news/31576",
+      "primary_url": "https://www.aibase.com/news/31576",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
+          "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "title_zh": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "title_en": null,
+          "title_original": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T03:14:20.467997Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
+          "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "title_zh": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "title_en": null,
+          "title_original": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T03:14:20.467997Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T03:14:20.467997Z",
+      "latest_at": "2026-10-13T03:14:20.467997Z",
+      "primary_item": {
+        "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
+        "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+        "title_zh": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+        "title_en": null,
+        "title_original": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31576",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:53:36.495814Z"
+      }
+    },
+    {
+      "story_id": "story_f0a7b95fb5f2",
+      "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
+      "url": "https://x.com/arena/status/2109706854700044523",
+      "primary_url": "https://x.com/arena/status/2109706854700044523",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4eb616f6e8dfc1b04a7e40de0dddb587442f07d7",
+          "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
+          "title_zh": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
+          "title_en": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
+          "title_original": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
+          "summary": "Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2109706854700044523",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T18:04:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "4eb616f6e8dfc1b04a7e40de0dddb587442f07d7",
+          "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
+          "title_zh": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
+          "title_en": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
+          "title_original": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
+          "summary": "Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2109706854700044523",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T18:04:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8761,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T18:04:45Z",
+      "latest_at": "2026-10-12T18:04:45Z",
+      "primary_item": {
+        "id": "4eb616f6e8dfc1b04a7e40de0dddb587442f07d7",
+        "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
+        "title_zh": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
+        "title_en": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
+        "title_original": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
+        "summary": "Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2109706854700044523",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:53:36.495814Z"
+      }
+    },
+    {
+      "story_id": "story_06f333b9aafa",
+      "title": "Anonymous organization-level registries for Dependabot",
+      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "primary_url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Anonymous organization-level registries for Dependabot",
+          "title_zh": null,
+          "title_en": "Anonymous organization-level registries for Dependabot",
+          "title_original": "Anonymous organization-level registries for Dependabot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Anonymous organization-level registries for Dependabot",
+          "title_zh": null,
+          "title_en": "Anonymous organization-level registries for Dependabot",
+          "title_original": "Anonymous organization-level registries for Dependabot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8268,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T14:04:16Z",
+      "latest_at": "2026-10-12T14:04:16Z",
+      "primary_item": {
+        "id": "089955f40de8038c107a9911361603ae50607306",
+        "title": "Anonymous organization-level registries for Dependabot",
+        "title_zh": null,
+        "title_en": "Anonymous organization-level registries for Dependabot",
+        "title_original": "Anonymous organization-level registries for Dependabot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:53:36.495814Z"
+      }
+    },
+    {
+      "story_id": "story_a15db883d464",
+      "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet / Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+      "url": "https://x.com/demishassabis/status/2109813775377563908",
+      "primary_url": "https://x.com/demishassabis/status/2109813775377563908",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
+          "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet / Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "title_zh": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+          "title_en": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "title_original": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "summary": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/demishassabis/status/2109813775377563908",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T01:09:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Demis Hassabis (@demishassabis)"
+      ],
+      "items": [
+        {
+          "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
+          "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet / Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "title_zh": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+          "title_en": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "title_original": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "summary": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/demishassabis/status/2109813775377563908",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T01:09:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9704,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T01:09:37Z",
+      "latest_at": "2026-10-13T01:09:37Z",
+      "primary_item": {
+        "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
+        "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet / Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+        "title_zh": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+        "title_en": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+        "title_original": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+        "summary": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/demishassabis/status/2109813775377563908",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:53:36.495814Z"
+      }
+    },
+    {
+      "story_id": "story_b41ff3f56559",
+      "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审 / Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+      "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
+      "primary_url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-          "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
+          "id": "e202ca86d4ca8c9e05762dc4553f7a5e5beaa966",
+          "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审 / Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+          "title_zh": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
+          "title_en": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+          "title_original": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+          "summary": "Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+          "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T17:20:34Z"
+          "published_at": "2026-10-12T09:35:54Z"
         }
       ],
       "source_count": 1,
@@ -611,49 +1003,48 @@
       ],
       "items": [
         {
-          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-          "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
+          "id": "e202ca86d4ca8c9e05762dc4553f7a5e5beaa966",
+          "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审 / Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+          "title_zh": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
+          "title_en": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+          "title_original": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+          "summary": "Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+          "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T17:20:34Z"
+          "published_at": "2026-10-12T09:35:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8831,
+        "recency": 0.7751,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-09T17:20:34Z",
-      "latest_at": "2026-10-09T17:20:34Z",
+      "earliest_at": "2026-10-12T09:35:54Z",
+      "latest_at": "2026-10-12T09:35:54Z",
       "primary_item": {
-        "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-        "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-        "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-        "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-        "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-        "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
+        "id": "e202ca86d4ca8c9e05762dc4553f7a5e5beaa966",
+        "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审 / Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+        "title_zh": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
+        "title_en": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+        "title_original": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+        "summary": "Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+        "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
@@ -661,112 +1052,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
+        "scored_at": "2026-10-13T03:53:36.495814Z"
       }
     },
     {
-      "story_id": "story_4a51e8b0897b",
-      "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
-      "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
-          "title_zh": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-          "title_en": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
-          "title_original": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
-          "summary": "Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:11:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
-          "title_zh": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-          "title_en": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
-          "title_original": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
-          "summary": "Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:11:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9471,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T22:11:18Z",
-      "latest_at": "2026-10-09T22:11:18Z",
-      "primary_item": {
-        "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-        "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
-        "title_zh": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-        "title_en": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
-        "title_original": "Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...",
-        "summary": "Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
-      }
-    },
-    {
-      "story_id": "story_87e6ce55e051",
-      "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-      "url": "https://www.aibase.com/news/31519",
-      "primary_url": "https://www.aibase.com/news/31519",
+      "story_id": "story_eb0b5c187dd7",
+      "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+      "url": "https://www.aibase.com/news/31584",
+      "primary_url": "https://www.aibase.com/news/31584",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "title_zh": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+          "id": "f739588e6fdea26df066fa5055fe5a38edb3fa49",
+          "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "title_zh": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
           "title_en": null,
-          "title_original": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+          "title_original": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31519",
+          "url": "https://www.aibase.com/news/31584",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
+          "published_at": "2026-10-13T03:14:20.467997Z"
         }
       ],
       "source_count": 1,
@@ -775,18 +1084,18 @@
       ],
       "items": [
         {
-          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "title_zh": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+          "id": "f739588e6fdea26df066fa5055fe5a38edb3fa49",
+          "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "title_zh": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
           "title_en": null,
-          "title_original": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+          "title_original": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31519",
+          "url": "https://www.aibase.com/news/31584",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
+          "published_at": "2026-10-13T03:14:20.467997Z"
         }
       ],
       "item_count": 1,
@@ -807,17 +1116,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T01:56:56.285045Z",
-      "latest_at": "2026-10-10T01:56:56.285045Z",
+      "earliest_at": "2026-10-13T03:14:20.467997Z",
+      "latest_at": "2026-10-13T03:14:20.467997Z",
       "primary_item": {
-        "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-        "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-        "title_zh": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+        "id": "f739588e6fdea26df066fa5055fe5a38edb3fa49",
+        "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+        "title_zh": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
         "title_en": null,
-        "title_original": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
+        "title_original": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31519",
+        "url": "https://www.aibase.com/news/31584",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -825,63 +1134,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
+        "scored_at": "2026-10-13T03:53:36.495814Z"
       }
     },
     {
-      "story_id": "story_465be7f1f5cf",
-      "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
-      "url": "https://x.com/arcprize/status/2108578092558250148",
-      "primary_url": "https://x.com/arcprize/status/2108578092558250148",
-      "source": "X：ARC Prize (@arcprize)",
+      "story_id": "story_b6844ce9c244",
+      "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索 / Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+      "source": "Ars Technica：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
-          "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "title_zh": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-          "title_en": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "title_original": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
+          "id": "3df9e5d8e050de37bee7775e1f9be729c18d418f",
+          "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索 / Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+          "title_zh": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
+          "title_en": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+          "title_original": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+          "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arcprize/status/2108578092558250148",
-          "source": "X：ARC Prize (@arcprize)",
+          "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T15:19:27Z"
+          "published_at": "2026-10-12T18:21:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：ARC Prize (@arcprize)"
+        "Ars Technica：AI（RSS）"
       ],
       "items": [
         {
-          "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
-          "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "title_zh": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-          "title_en": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "title_original": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
+          "id": "3df9e5d8e050de37bee7775e1f9be729c18d418f",
+          "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索 / Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+          "title_zh": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
+          "title_en": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+          "title_original": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+          "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arcprize/status/2108578092558250148",
-          "source": "X：ARC Prize (@arcprize)",
+          "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T15:19:27Z"
+          "published_at": "2026-10-12T18:21:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8578,
+        "recency": 0.8797,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,48 +1198,48 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T15:19:27Z",
-      "latest_at": "2026-10-09T15:19:27Z",
+      "earliest_at": "2026-10-12T18:21:36Z",
+      "latest_at": "2026-10-12T18:21:36Z",
       "primary_item": {
-        "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
-        "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
-        "title_zh": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-        "title_en": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-        "title_original": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-        "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
+        "id": "3df9e5d8e050de37bee7775e1f9be729c18d418f",
+        "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索 / Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+        "title_zh": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
+        "title_en": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+        "title_original": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+        "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/arcprize/status/2108578092558250148",
-        "source": "X：ARC Prize (@arcprize)",
+        "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
+        "scored_at": "2026-10-13T03:53:36.495814Z"
       }
     },
     {
-      "story_id": "story_2a6b995c4a3c",
-      "title": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
-      "url": "https://www.aibase.com/news/31518",
-      "primary_url": "https://www.aibase.com/news/31518",
+      "story_id": "story_af833dea3300",
+      "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+      "url": "https://www.aibase.com/news/31572",
+      "primary_url": "https://www.aibase.com/news/31572",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3fbb6ad13f030699e2e60badafc6e3f2aa53c5f3",
-          "title": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
-          "title_zh": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+          "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
+          "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+          "title_zh": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "title_en": null,
-          "title_original": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+          "title_original": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31518",
+          "url": "https://www.aibase.com/news/31572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
+          "published_at": "2026-10-13T03:14:20.467997Z"
         }
       ],
       "source_count": 1,
@@ -939,18 +1248,18 @@
       ],
       "items": [
         {
-          "id": "3fbb6ad13f030699e2e60badafc6e3f2aa53c5f3",
-          "title": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
-          "title_zh": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+          "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
+          "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+          "title_zh": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "title_en": null,
-          "title_original": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+          "title_original": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31518",
+          "url": "https://www.aibase.com/news/31572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
+          "published_at": "2026-10-13T03:14:20.467997Z"
         }
       ],
       "item_count": 1,
@@ -971,17 +1280,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T01:56:56.285045Z",
-      "latest_at": "2026-10-10T01:56:56.285045Z",
+      "earliest_at": "2026-10-13T03:14:20.467997Z",
+      "latest_at": "2026-10-13T03:14:20.467997Z",
       "primary_item": {
-        "id": "3fbb6ad13f030699e2e60badafc6e3f2aa53c5f3",
-        "title": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
-        "title_zh": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+        "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
+        "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+        "title_zh": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
         "title_en": null,
-        "title_original": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+        "title_original": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31518",
+        "url": "https://www.aibase.com/news/31572",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -989,192 +1298,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
+        "scored_at": "2026-10-13T03:53:36.495814Z"
       }
     },
     {
-      "story_id": "story_b275bb44c6cf",
-      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-      "url": "https://sierra.ai/blog/poppy",
-      "primary_url": "https://sierra.ai/blog/poppy",
-      "source": "Sierra：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-          "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-          "title_en": "Sharing a draft of Personal Agent Protocol",
-          "title_original": "Sharing a draft of Personal Agent Protocol",
-          "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-          "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/poppy",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T19:56:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Sierra：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-          "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-          "title_en": "Sharing a draft of Personal Agent Protocol",
-          "title_original": "Sharing a draft of Personal Agent Protocol",
-          "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-          "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/poppy",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T19:56:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9168,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T19:56:06Z",
-      "latest_at": "2026-10-09T19:56:06Z",
-      "primary_item": {
-        "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-        "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-        "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-        "title_en": "Sharing a draft of Personal Agent Protocol",
-        "title_original": "Sharing a draft of Personal Agent Protocol",
-        "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-        "recommend_reason_zh": null,
-        "url": "https://sierra.ai/blog/poppy",
-        "source": "Sierra：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
-      }
-    },
-    {
-      "story_id": "story_d2d36c081b84",
-      "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC） / [Paper] Distillation for Incrimination and Distillation for Capabilities",
-      "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "primary_url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "source": "Redwood Research：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC） / [Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "title_zh": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-          "title_en": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "title_original": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "summary": "Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:06:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Redwood Research：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC） / [Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "title_zh": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-          "title_en": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "title_original": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "summary": "Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:06:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9461,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T22:06:51Z",
-      "latest_at": "2026-10-09T22:06:51Z",
-      "primary_item": {
-        "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-        "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC） / [Paper] Distillation for Incrimination and Distillation for Capabilities",
-        "title_zh": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-        "title_en": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-        "title_original": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-        "summary": "Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-        "source": "Redwood Research：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
-      }
-    },
-    {
-      "story_id": "story_921efb186f8d",
-      "title": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
-      "url": "https://www.aibase.com/news/31514",
-      "primary_url": "https://www.aibase.com/news/31514",
+      "story_id": "story_df415c38ab80",
+      "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+      "url": "https://www.aibase.com/news/31587",
+      "primary_url": "https://www.aibase.com/news/31587",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d26ea10b723734fec5c537d8f82fdfa1ca3d3c21",
-          "title": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
-          "title_zh": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+          "id": "f8dc4a84db192f0a3fd3b658d6025defe3b8ae59",
+          "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+          "title_zh": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "title_en": null,
-          "title_original": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+          "title_original": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31514",
+          "url": "https://www.aibase.com/news/31587",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
+          "published_at": "2026-10-13T03:14:20.467997Z"
         }
       ],
       "source_count": 1,
@@ -1183,18 +1330,18 @@
       ],
       "items": [
         {
-          "id": "d26ea10b723734fec5c537d8f82fdfa1ca3d3c21",
-          "title": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
-          "title_zh": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+          "id": "f8dc4a84db192f0a3fd3b658d6025defe3b8ae59",
+          "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+          "title_zh": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "title_en": null,
-          "title_original": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+          "title_original": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31514",
+          "url": "https://www.aibase.com/news/31587",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
+          "published_at": "2026-10-13T03:14:20.467997Z"
         }
       ],
       "item_count": 1,
@@ -1215,17 +1362,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T01:56:56.285045Z",
-      "latest_at": "2026-10-10T01:56:56.285045Z",
+      "earliest_at": "2026-10-13T03:14:20.467997Z",
+      "latest_at": "2026-10-13T03:14:20.467997Z",
       "primary_item": {
-        "id": "d26ea10b723734fec5c537d8f82fdfa1ca3d3c21",
-        "title": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
-        "title_zh": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+        "id": "f8dc4a84db192f0a3fd3b658d6025defe3b8ae59",
+        "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+        "title_zh": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
         "title_en": null,
-        "title_original": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+        "title_original": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31514",
+        "url": "https://www.aibase.com/news/31587",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1233,30 +1380,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
+        "scored_at": "2026-10-13T03:53:36.495814Z"
       }
     },
     {
-      "story_id": "story_abd0bd616f6a",
-      "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
-      "url": "https://www.aibase.com/news/31520",
-      "primary_url": "https://www.aibase.com/news/31520",
+      "story_id": "story_a00783ceb298",
+      "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+      "url": "https://www.aibase.com/news/31580",
+      "primary_url": "https://www.aibase.com/news/31580",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a081f6fdb767245ad987583a38494f0a14cc94a9",
-          "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
-          "title_zh": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "id": "f0eb7efbe570c0c4f69eda432bb5353656e858a8",
+          "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+          "title_zh": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
           "title_en": null,
-          "title_original": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "title_original": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31520",
+          "url": "https://www.aibase.com/news/31580",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
+          "published_at": "2026-10-13T03:14:20.467997Z"
         }
       ],
       "source_count": 1,
@@ -1265,18 +1412,18 @@
       ],
       "items": [
         {
-          "id": "a081f6fdb767245ad987583a38494f0a14cc94a9",
-          "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
-          "title_zh": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "id": "f0eb7efbe570c0c4f69eda432bb5353656e858a8",
+          "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+          "title_zh": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
           "title_en": null,
-          "title_original": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "title_original": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31520",
+          "url": "https://www.aibase.com/news/31580",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
+          "published_at": "2026-10-13T03:14:20.467997Z"
         }
       ],
       "item_count": 1,
@@ -1297,17 +1444,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T01:56:56.285045Z",
-      "latest_at": "2026-10-10T01:56:56.285045Z",
+      "earliest_at": "2026-10-13T03:14:20.467997Z",
+      "latest_at": "2026-10-13T03:14:20.467997Z",
       "primary_item": {
-        "id": "a081f6fdb767245ad987583a38494f0a14cc94a9",
-        "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
-        "title_zh": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+        "id": "f0eb7efbe570c0c4f69eda432bb5353656e858a8",
+        "title": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
+        "title_zh": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
         "title_en": null,
-        "title_original": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+        "title_original": "OpenAI拟以股权合作方式重启Sora 转向好莱坞专业影视制作市场",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31520",
+        "url": "https://www.aibase.com/news/31580",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1315,419 +1462,449 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
+        "scored_at": "2026-10-13T03:53:36.495814Z"
       }
     },
     {
-      "story_id": "story_3b05b7cc3085",
-      "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "primary_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_44e9421b5ba8",
+      "title": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+      "url": "https://www.aibase.com/news/31573",
+      "primary_url": "https://www.aibase.com/news/31573",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
-          "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "title_zh": "人类人工智能模型向费城警方发送了虚假的凶杀案线索",
-          "title_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "title_original": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "id": "583450795fa0231ddcd50b8d182cb2a5e722ece1",
+          "title": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "title_zh": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "title_en": null,
+          "title_original": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T19:36:56Z"
+          "url": "https://www.aibase.com/news/31573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T03:14:20.467997Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "583450795fa0231ddcd50b8d182cb2a5e722ece1",
+          "title": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "title_zh": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "title_en": null,
+          "title_original": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T03:14:20.467997Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T03:14:20.467997Z",
+      "latest_at": "2026-10-13T03:14:20.467997Z",
+      "primary_item": {
+        "id": "583450795fa0231ddcd50b8d182cb2a5e722ece1",
+        "title": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+        "title_zh": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+        "title_en": null,
+        "title_original": "OpenAI给ChatGPT装上交互界面，手搓AI应用赛道要被跨域了",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31573",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:53:36.495814Z"
+      }
+    },
+    {
+      "story_id": "story_062e019f7039",
+      "title": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+      "url": "https://www.aibase.com/news/31585",
+      "primary_url": "https://www.aibase.com/news/31585",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d0699091acefc0de570661aeb7877b1cb511a4bc",
+          "title": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+          "title_zh": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+          "title_en": null,
+          "title_original": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31585",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T03:14:20.467997Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d0699091acefc0de570661aeb7877b1cb511a4bc",
+          "title": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+          "title_zh": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+          "title_en": null,
+          "title_original": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31585",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T03:14:20.467997Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T03:14:20.467997Z",
+      "latest_at": "2026-10-13T03:14:20.467997Z",
+      "primary_item": {
+        "id": "d0699091acefc0de570661aeb7877b1cb511a4bc",
+        "title": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+        "title_zh": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+        "title_en": null,
+        "title_original": "Sora将回归？OpenAI拟把模型交给卡岑伯格初创公司，改走专业影视工具路线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31585",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:53:36.495814Z"
+      }
+    },
+    {
+      "story_id": "story_e95be3737903",
+      "title": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+      "primary_url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+      "source": "nirajrajgor.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b1300804fee9f1f531ae29784b4126ef89a2fc1e",
+          "title": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+          "source": "nirajrajgor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-13T01:47:55.127000Z"
         },
         {
-          "id": "145a7aad5286b98601e7de128dd1d179ad76b05d",
-          "title": "一位人类模型向费城警方提交了虚假的凶杀案线索 / An Anthropic model submitted a false homicide tip to Philadelphia police",
-          "title_zh": "一位人类模型向费城警方提交了虚假的凶杀案线索",
-          "title_en": "An Anthropic model submitted a false homicide tip to Philadelphia police",
-          "title_original": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "id": "e622d7b04707002e6579f683fdca5e44c14b370b",
+          "title": "GPT-6 Astra 帮助我越狱了我的 Kindle / I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_en": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_original": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T20:00:30Z"
-        },
-        {
-          "id": "76644748fefc10a30a4f933527d442a59d91a2e7",
-          "title": "人类人工智能模型向警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to the police",
-          "title_zh": "人类人工智能模型向警方发送了虚假的凶杀案线索",
-          "title_en": "An Anthropic AI model sent a false homicide tip to the police",
-          "title_original": "An Anthropic AI model sent a false homicide tip to the police",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-09T19:44:59Z"
+          "published_at": "2026-10-12T23:07:25Z"
+        },
+        {
+          "id": "708ab8a3313763fbed3813d2652a472c21cb2de7",
+          "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_original": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50064318",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T23:07:25Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Engadget",
         "Hacker News · 24h最热",
-        "TechCrunch AI"
+        "hackernews",
+        "nirajrajgor.com"
       ],
       "items": [
         {
-          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
-          "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "title_zh": "人类人工智能模型向费城警方发送了虚假的凶杀案线索",
-          "title_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "title_original": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "id": "b1300804fee9f1f531ae29784b4126ef89a2fc1e",
+          "title": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 帮助我越狱了我的 Kindle",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T19:36:56Z"
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+          "source": "nirajrajgor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-13T01:47:55.127000Z"
         },
         {
-          "id": "145a7aad5286b98601e7de128dd1d179ad76b05d",
-          "title": "一位人类模型向费城警方提交了虚假的凶杀案线索 / An Anthropic model submitted a false homicide tip to Philadelphia police",
-          "title_zh": "一位人类模型向费城警方提交了虚假的凶杀案线索",
-          "title_en": "An Anthropic model submitted a false homicide tip to Philadelphia police",
-          "title_original": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "id": "e622d7b04707002e6579f683fdca5e44c14b370b",
+          "title": "GPT-6 Astra 帮助我越狱了我的 Kindle / I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+          "title_en": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_original": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T20:00:30Z"
-        },
-        {
-          "id": "76644748fefc10a30a4f933527d442a59d91a2e7",
-          "title": "人类人工智能模型向警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to the police",
-          "title_zh": "人类人工智能模型向警方发送了虚假的凶杀案线索",
-          "title_en": "An Anthropic AI model sent a false homicide tip to the police",
-          "title_original": "An Anthropic AI model sent a false homicide tip to the police",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-09T19:44:59Z"
+          "published_at": "2026-10-12T23:07:25Z"
+        },
+        {
+          "id": "708ab8a3313763fbed3813d2652a472c21cb2de7",
+          "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "title_original": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50064318",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T23:07:25Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6705,
-      "importance": 0.6705,
-      "importance_score": 0.6705,
+      "score": 0.5671,
+      "importance": 0.5671,
+      "importance_score": 0.5671,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9126,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9794,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-09T19:36:56Z",
-      "latest_at": "2026-10-09T20:00:30Z",
+      "earliest_at": "2026-10-12T23:07:25Z",
+      "latest_at": "2026-10-13T01:47:55.127000Z",
       "primary_item": {
-        "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
-        "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "title_zh": "人类人工智能模型向费城警方发送了虚假的凶杀案线索",
-        "title_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "title_original": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
-      }
-    },
-    {
-      "story_id": "story_4f6eec857b1d",
-      "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-      "url": "https://www.aibase.com/news/31515",
-      "primary_url": "https://www.aibase.com/news/31515",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "title_zh": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "title_en": null,
-          "title_original": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31515",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "title_zh": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "title_en": null,
-          "title_original": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31515",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T01:56:56.285045Z",
-      "latest_at": "2026-10-10T01:56:56.285045Z",
-      "primary_item": {
-        "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-        "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-        "title_zh": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
+        "id": "b1300804fee9f1f531ae29784b4126ef89a2fc1e",
+        "title": "GPT-6 Astra 帮助我越狱了我的 Kindle",
+        "title_zh": "GPT-6 Astra 帮助我越狱了我的 Kindle",
         "title_en": null,
-        "title_original": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
+        "title_original": "GPT-6 Astra 帮助我越狱了我的 Kindle",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31515",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+        "source": "nirajrajgor.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
+        "scored_at": "2026-10-13T03:53:36.495814Z"
       }
     },
     {
-      "story_id": "story_b4f1f078212c",
-      "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-      "url": "https://www.aibase.com/news/31521",
-      "primary_url": "https://www.aibase.com/news/31521",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_159197442d2f",
+      "title": "人工智能是一种工具。要善用它，需要技巧。",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+      "primary_url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+      "source": "yyhh.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "58f16a039c95b4a5045d3dad788284f17638cf8c",
-          "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "title_zh": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
+          "id": "f34b5760b361ac6365cef93dd32f3fd17f8cad23",
+          "title": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
           "title_en": null,
-          "title_original": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
+          "title_original": "人工智能是一种工具。要善用它，需要技巧。",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31521",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "58f16a039c95b4a5045d3dad788284f17638cf8c",
-          "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "title_zh": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "title_en": null,
-          "title_original": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31521",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T01:56:56.285045Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T01:56:56.285045Z",
-      "latest_at": "2026-10-10T01:56:56.285045Z",
-      "primary_item": {
-        "id": "58f16a039c95b4a5045d3dad788284f17638cf8c",
-        "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-        "title_zh": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-        "title_en": null,
-        "title_original": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31521",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
-      }
-    },
-    {
-      "story_id": "story_11c2001af060",
-      "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
-          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
-          "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T19:09:44Z"
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+          "source": "yyhh.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T22:51:56.438000Z"
         },
         {
-          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
-          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / ‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
-          "title_en": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "title_original": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "id": "eaa47c848ef9e8ced769b9d772454fecc7a4e600",
+          "title": "人工智能是一种工具。要善用它，需要技巧。 / AI is a tool and using it well takes skill",
+          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_en": "AI is a tool and using it well takes skill",
+          "title_original": "AI is a tool and using it well takes skill",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T19:09:44Z"
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-12T21:40:18Z"
+        },
+        {
+          "id": "62def824f05cac53f3b8390c28d9ca364ab06234",
+          "title": "AI is a tool and using it well takes skill",
+          "title_zh": null,
+          "title_en": "AI is a tool and using it well takes skill",
+          "title_original": "AI is a tool and using it well takes skill",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50063427",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T21:40:18Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "The Verge"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "yyhh.org"
       ],
       "items": [
         {
-          "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
-          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
-          "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-          "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "id": "f34b5760b361ac6365cef93dd32f3fd17f8cad23",
+          "title": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_en": null,
+          "title_original": "人工智能是一种工具。要善用它，需要技巧。",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T19:09:44Z"
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+          "source": "yyhh.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-12T22:51:56.438000Z"
         },
         {
-          "id": "5272b7ad57f0651ee9bdb4c420201aa794fcbf79",
-          "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / ‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
-          "title_en": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-          "title_original": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+          "id": "eaa47c848ef9e8ced769b9d772454fecc7a4e600",
+          "title": "人工智能是一种工具。要善用它，需要技巧。 / AI is a tool and using it well takes skill",
+          "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
+          "title_en": "AI is a tool and using it well takes skill",
+          "title_original": "AI is a tool and using it well takes skill",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-09T19:09:44Z"
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-12T21:40:18Z"
+        },
+        {
+          "id": "62def824f05cac53f3b8390c28d9ca364ab06234",
+          "title": "AI is a tool and using it well takes skill",
+          "title_zh": null,
+          "title_en": "AI is a tool and using it well takes skill",
+          "title_original": "AI is a tool and using it well takes skill",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50063427",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-12T21:40:18Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6112,
-      "importance": 0.6112,
-      "importance_score": 0.6112,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5598,
+      "importance": 0.5598,
+      "importance_score": 0.5598,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.9066,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9388,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-09T19:09:44Z",
-      "latest_at": "2026-10-09T19:09:44Z",
+      "earliest_at": "2026-10-12T21:40:18Z",
+      "latest_at": "2026-10-12T22:51:56.438000Z",
       "primary_item": {
-        "id": "a6dde0a6e888ff89baedb3a0dcdeee931dece63a",
-        "title": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-        "title_zh": "“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅",
-        "title_en": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-        "title_original": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "id": "f34b5760b361ac6365cef93dd32f3fd17f8cad23",
+        "title": "人工智能是一种工具。要善用它，需要技巧。",
+        "title_zh": "人工智能是一种工具。要善用它，需要技巧。",
+        "title_en": null,
+        "title_original": "人工智能是一种工具。要善用它，需要技巧。",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+        "source": "yyhh.org",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T01:57:43.345302Z"
+        "scored_at": "2026-10-13T03:53:36.495814Z"
       }
     }
   ]
