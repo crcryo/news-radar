@@ -1,81 +1,169 @@
 {
-  "generated_at": "2026-11-03T03:44:58.274038Z",
+  "generated_at": "2026-11-05T02:55:04.777410Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_f6a787bee313",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "primary_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "story_id": "story_a5ecfede95e9",
+      "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-          "title": "Preparing our next security sprint to harden OpenAI",
-          "title_zh": null,
-          "title_en": "Preparing our next security sprint to harden OpenAI",
-          "title_original": "Preparing our next security sprint to harden OpenAI",
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
+          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z"
+          "published_at": "2026-11-04T14:30:00Z"
+        },
+        {
+          "id": "195fd593e3472bb34545c23e2c84a75cf54bf212",
+          "title": "OpenAI将收购Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
+          "title_en": null,
+          "title_original": "OpenAI将收购Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T21:12:50.695000Z"
+        },
+        {
+          "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
+          "title_en": "OpenAI to acquire Pierre Computer Company",
+          "title_original": "OpenAI to acquire Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T15:21:21Z"
+        },
+        {
+          "id": "3c4b7ca66be58e1ab9ed97226c73f51e1975e9ad",
+          "title": "OpenAI to acquire Pierre Computer Company",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company",
+          "title_original": "OpenAI to acquire Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50366863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T15:21:21Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "OpenAI News"
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "hackernews",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-          "title": "Preparing our next security sprint to harden OpenAI",
-          "title_zh": null,
-          "title_en": "Preparing our next security sprint to harden OpenAI",
-          "title_original": "Preparing our next security sprint to harden OpenAI",
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
+          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z"
+          "published_at": "2026-11-04T14:30:00Z"
+        },
+        {
+          "id": "195fd593e3472bb34545c23e2c84a75cf54bf212",
+          "title": "OpenAI将收购Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
+          "title_en": null,
+          "title_original": "OpenAI将收购Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T21:12:50.695000Z"
+        },
+        {
+          "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
+          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI将收购Pierre Computer Company",
+          "title_en": "OpenAI to acquire Pierre Computer Company",
+          "title_original": "OpenAI to acquire Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T15:21:21Z"
+        },
+        {
+          "id": "3c4b7ca66be58e1ab9ed97226c73f51e1975e9ad",
+          "title": "OpenAI to acquire Pierre Computer Company",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company",
+          "title_original": "OpenAI to acquire Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50366863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T15:21:21Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8975,
+      "importance": 0.8975,
+      "importance_score": 0.8975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8687,
-        "story_heat": 0.0
+        "recency": 0.8358,
+        "story_heat": 0.75
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T18:00:00Z",
-      "latest_at": "2026-11-02T18:00:00Z",
+      "earliest_at": "2026-11-04T14:30:00Z",
+      "latest_at": "2026-11-04T21:12:50.695000Z",
       "primary_item": {
-        "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "title_zh": null,
-        "title_en": "Preparing our next security sprint to harden OpenAI",
-        "title_original": "Preparing our next security sprint to harden OpenAI",
+        "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+        "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_zh": "OpenAI将收购Pierre Computer Company",
+        "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "url": "https://openai.com/index/openai-to-acquire-pierre",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -83,63 +171,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_0e2e48e223fc",
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "source": "Google AI Blog",
+      "story_id": "story_a1cac76551fa",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-          "title": "The latest AI news we announced in October 2026",
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "title_zh": null,
-          "title_en": "The latest AI news we announced in October 2026",
-          "title_original": "The latest AI news we announced in October 2026",
+          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-          "source": "Google AI Blog",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T17:45:00Z"
+          "published_at": "2026-11-04T17:50:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-          "title": "The latest AI news we announced in October 2026",
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "title_zh": null,
-          "title_en": "The latest AI news we announced in October 2026",
-          "title_original": "The latest AI news we announced in October 2026",
+          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-          "source": "Google AI Blog",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T17:45:00Z"
+          "published_at": "2026-11-04T17:50:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8655,
+        "ai_relevance": 0.95,
+        "recency": 0.8771,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,48 +236,48 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T17:45:00Z",
-      "latest_at": "2026-11-02T17:45:00Z",
+      "earliest_at": "2026-11-04T17:50:10Z",
+      "latest_at": "2026-11-04T17:50:10Z",
       "primary_item": {
-        "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-        "title": "The latest AI news we announced in October 2026",
+        "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+        "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
         "title_zh": null,
-        "title_en": "The latest AI news we announced in October 2026",
-        "title_original": "The latest AI news we announced in October 2026",
+        "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-        "source": "Google AI Blog",
+        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_001abc75b59a",
-      "title": "Security risk assessments include repository protection status",
-      "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
-      "primary_url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+      "story_id": "story_bf5abd3d9223",
+      "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+      "primary_url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "743ef30d896f622611d53a06f5c6e9a21f4b8321",
-          "title": "Security risk assessments include repository protection status",
+          "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+          "title": "GitHub Copilot is now available in Xcode’s coding assistant",
           "title_zh": null,
-          "title_en": "Security risk assessments include repository protection status",
-          "title_original": "Security risk assessments include repository protection status",
+          "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+          "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:47:21Z"
+          "published_at": "2026-11-04T19:10:40Z"
         }
       ],
       "source_count": 1,
@@ -198,31 +286,31 @@
       ],
       "items": [
         {
-          "id": "743ef30d896f622611d53a06f5c6e9a21f4b8321",
-          "title": "Security risk assessments include repository protection status",
+          "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+          "title": "GitHub Copilot is now available in Xcode’s coding assistant",
           "title_zh": null,
-          "title_en": "Security risk assessments include repository protection status",
-          "title_original": "Security risk assessments include repository protection status",
+          "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+          "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:47:21Z"
+          "published_at": "2026-11-04T19:10:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8414,
+        "ai_relevance": 0.91,
+        "recency": 0.8942,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,17 +319,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T15:47:21Z",
-      "latest_at": "2026-11-02T15:47:21Z",
+      "earliest_at": "2026-11-04T19:10:40Z",
+      "latest_at": "2026-11-04T19:10:40Z",
       "primary_item": {
-        "id": "743ef30d896f622611d53a06f5c6e9a21f4b8321",
-        "title": "Security risk assessments include repository protection status",
+        "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+        "title": "GitHub Copilot is now available in Xcode’s coding assistant",
         "title_zh": null,
-        "title_en": "Security risk assessments include repository protection status",
-        "title_original": "Security risk assessments include repository protection status",
+        "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
+        "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+        "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -249,82 +337,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_5f8be3ab19ec",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "primary_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "story_id": "story_f06268fdc285",
+      "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-          "title": "Rewarding defenders with bigger bug bounties",
-          "title_zh": null,
-          "title_en": "Rewarding defenders with bigger bug bounties",
-          "title_original": "Rewarding defenders with bigger bug bounties",
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
+          "title_en": "A thousand fewer paths to root",
+          "title_original": "A thousand fewer paths to root",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z"
+          "published_at": "2026-11-04T08:00:00Z"
+        },
+        {
+          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
+          "title": "通往root的路径少了1000条简体中文（大陆）",
+          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
+          "title_en": null,
+          "title_original": "通往root的路径少了1000条简体中文（大陆）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:01:04.884000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-          "title": "Rewarding defenders with bigger bug bounties",
-          "title_zh": null,
-          "title_en": "Rewarding defenders with bigger bug bounties",
-          "title_original": "Rewarding defenders with bigger bug bounties",
+          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
+          "title_en": "A thousand fewer paths to root",
+          "title_original": "A thousand fewer paths to root",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z"
+          "published_at": "2026-11-04T08:00:00Z"
+        },
+        {
+          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
+          "title": "通往root的路径少了1000条简体中文（大陆）",
+          "title_zh": "通往root的路径少了1000条简体中文（大陆）",
+          "title_en": null,
+          "title_original": "通往root的路径少了1000条简体中文（大陆）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:01:04.884000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8687,
-        "story_heat": 0.0
+        "recency": 0.761,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T18:00:00Z",
-      "latest_at": "2026-11-02T18:00:00Z",
+      "earliest_at": "2026-11-04T08:00:00Z",
+      "latest_at": "2026-11-05T02:01:04.884000Z",
       "primary_item": {
-        "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-        "title": "Rewarding defenders with bigger bug bounties",
-        "title_zh": null,
-        "title_en": "Rewarding defenders with bigger bug bounties",
-        "title_original": "Rewarding defenders with bigger bug bounties",
+        "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
+        "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
+        "title_zh": "通往root的路径少了1000条简体中文（大陆）",
+        "title_en": "A thousand fewer paths to root",
+        "title_original": "A thousand fewer paths to root",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -332,30 +450,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_e38bf6a68f79",
-      "title": "pull_request_target blocked by default December 2",
-      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-      "primary_url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "story_id": "story_103533f8718a",
+      "title": "CodeQL 2.27.4 improves accuracy and query metadata",
+      "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+      "primary_url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
-          "title": "pull_request_target blocked by default December 2",
+          "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
+          "title": "CodeQL 2.27.4 improves accuracy and query metadata",
           "title_zh": null,
-          "title_en": "pull_request_target blocked by default December 2",
-          "title_original": "pull_request_target blocked by default December 2",
+          "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
+          "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:14:46Z"
+          "published_at": "2026-11-04T20:04:52Z"
         }
       ],
       "source_count": 1,
@@ -364,31 +482,31 @@
       ],
       "items": [
         {
-          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
-          "title": "pull_request_target blocked by default December 2",
+          "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
+          "title": "CodeQL 2.27.4 improves accuracy and query metadata",
           "title_zh": null,
-          "title_en": "pull_request_target blocked by default December 2",
-          "title_original": "pull_request_target blocked by default December 2",
+          "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
+          "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:14:46Z"
+          "published_at": "2026-11-04T20:04:52Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8348,
+        "recency": 0.906,
         "story_heat": 0.0
       },
       "category": "official",
@@ -397,17 +515,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T15:14:46Z",
-      "latest_at": "2026-11-02T15:14:46Z",
+      "earliest_at": "2026-11-04T20:04:52Z",
+      "latest_at": "2026-11-04T20:04:52Z",
       "primary_item": {
-        "id": "b96e8422984b28dab9da765338770cfc10976a7f",
-        "title": "pull_request_target blocked by default December 2",
+        "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
+        "title": "CodeQL 2.27.4 improves accuracy and query metadata",
         "title_zh": null,
-        "title_en": "pull_request_target blocked by default December 2",
-        "title_original": "pull_request_target blocked by default December 2",
+        "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
+        "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+        "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -415,30 +533,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_d50bda7dc1a6",
-      "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-      "url": "https://www.aibase.com/news/32029",
-      "primary_url": "https://www.aibase.com/news/32029",
+      "story_id": "story_0e832117a16c",
+      "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+      "url": "https://www.aibase.com/news/32094",
+      "primary_url": "https://www.aibase.com/news/32094",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-          "title_zh": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
+          "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
           "title_en": null,
-          "title_original": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32029",
+          "url": "https://www.aibase.com/news/32094",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
+          "published_at": "2026-11-05T02:55:04.777410Z"
         }
       ],
       "source_count": 1,
@@ -447,18 +565,18 @@
       ],
       "items": [
         {
-          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-          "title_zh": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
+          "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+          "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
           "title_en": null,
-          "title_original": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32029",
+          "url": "https://www.aibase.com/news/32094",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
+          "published_at": "2026-11-05T02:55:04.777410Z"
         }
       ],
       "item_count": 1,
@@ -479,17 +597,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T03:44:58.274038Z",
-      "latest_at": "2026-11-03T03:44:58.274038Z",
+      "earliest_at": "2026-11-05T02:55:04.777410Z",
+      "latest_at": "2026-11-05T02:55:04.777410Z",
       "primary_item": {
-        "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-        "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-        "title_zh": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+        "id": "8d88b476ec0bc63aa12aaf564bedc03668d90ffb",
+        "title": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
+        "title_zh": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
         "title_en": null,
-        "title_original": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+        "title_original": "40 年未解的\"细胞穹窿\"，被 Claude 拽进结构生物学视野",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32029",
+        "url": "https://www.aibase.com/news/32094",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -497,30 +615,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_3762d45ec3c7",
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "primary_url": "https://openai.com/index/scaling-git-at-openai",
+      "story_id": "story_909e1b342a31",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
-          "title": "Scaling Git at OpenAI",
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "title_zh": null,
-          "title_en": "Scaling Git at OpenAI",
-          "title_original": "Scaling Git at OpenAI",
+          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-git-at-openai",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:30:00Z"
+          "published_at": "2026-11-04T07:00:00Z"
         }
       ],
       "source_count": 1,
@@ -529,442 +647,31 @@
       ],
       "items": [
         {
-          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
-          "title": "Scaling Git at OpenAI",
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "title_zh": null,
-          "title_en": "Scaling Git at OpenAI",
-          "title_original": "Scaling Git at OpenAI",
+          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-git-at-openai",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:30:00Z"
+          "published_at": "2026-11-04T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8379,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T15:30:00Z",
-      "latest_at": "2026-11-02T15:30:00Z",
-      "primary_item": {
-        "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
-        "title": "Scaling Git at OpenAI",
-        "title_zh": null,
-        "title_en": "Scaling Git at OpenAI",
-        "title_original": "Scaling Git at OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/scaling-git-at-openai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
-      }
-    },
-    {
-      "story_id": "story_dfeffe16e275",
-      "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-      "url": "https://www.aibase.com/news/32039",
-      "primary_url": "https://www.aibase.com/news/32039",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
-          "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-          "title_zh": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-          "title_en": null,
-          "title_original": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
-          "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-          "title_zh": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-          "title_en": null,
-          "title_original": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:44:58.274038Z",
-      "latest_at": "2026-11-03T03:44:58.274038Z",
-      "primary_item": {
-        "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
-        "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-        "title_zh": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-        "title_en": null,
-        "title_original": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32039",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
-      }
-    },
-    {
-      "story_id": "story_f47b50344903",
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "primary_url": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f77c85b40dd2c062544c4bdc8c68dfcff8adeaa1",
-          "title": "Introducing the Grid Protectors Program",
-          "title_zh": null,
-          "title_en": "Introducing the Grid Protectors Program",
-          "title_original": "Introducing the Grid Protectors Program",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/grid-protectors-program",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f77c85b40dd2c062544c4bdc8c68dfcff8adeaa1",
-          "title": "Introducing the Grid Protectors Program",
-          "title_zh": null,
-          "title_en": "Introducing the Grid Protectors Program",
-          "title_original": "Introducing the Grid Protectors Program",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/grid-protectors-program",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8318,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T15:00:00Z",
-      "latest_at": "2026-11-02T15:00:00Z",
-      "primary_item": {
-        "id": "f77c85b40dd2c062544c4bdc8c68dfcff8adeaa1",
-        "title": "Introducing the Grid Protectors Program",
-        "title_zh": null,
-        "title_en": "Introducing the Grid Protectors Program",
-        "title_original": "Introducing the Grid Protectors Program",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/grid-protectors-program",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
-      }
-    },
-    {
-      "story_id": "story_6f30c8d895dd",
-      "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
-          "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-02T08:01:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
-          "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-11-02T08:01:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7521,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-02T08:01:01Z",
-      "latest_at": "2026-11-02T08:01:01Z",
-      "primary_item": {
-        "id": "47c968ce75e3678572db8e3f76a594c8ecfbceeb",
-        "title": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-        "title_zh": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
-      }
-    },
-    {
-      "story_id": "story_83a81155469d",
-      "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-      "url": "https://www.aibase.com/news/32031",
-      "primary_url": "https://www.aibase.com/news/32031",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
-          "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-          "title_zh": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-          "title_en": null,
-          "title_original": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32031",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
-          "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-          "title_zh": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-          "title_en": null,
-          "title_original": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32031",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:44:58.274038Z",
-      "latest_at": "2026-11-03T03:44:58.274038Z",
-      "primary_item": {
-        "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
-        "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-        "title_zh": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-        "title_en": null,
-        "title_original": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32031",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
-      }
-    },
-    {
-      "story_id": "story_b86e981c547a",
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "primary_url": "https://openai.com/index/lifeval",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
-          "title": "LifeVal",
-          "title_zh": null,
-          "title_en": "LifeVal",
-          "title_original": "LifeVal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lifeval",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
-          "title": "LifeVal",
-          "title_zh": null,
-          "title_en": "LifeVal",
-          "title_original": "LifeVal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lifeval",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7628,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "official",
@@ -973,17 +680,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T09:00:00Z",
-      "latest_at": "2026-11-02T09:00:00Z",
+      "earliest_at": "2026-11-04T07:00:00Z",
+      "latest_at": "2026-11-04T07:00:00Z",
       "primary_item": {
-        "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
-        "title": "LifeVal",
+        "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+        "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
         "title_zh": null,
-        "title_en": "LifeVal",
-        "title_original": "LifeVal",
+        "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/lifeval",
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -991,30 +698,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_1bba94603466",
-      "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
-      "url": "https://www.aibase.com/news/32030",
-      "primary_url": "https://www.aibase.com/news/32030",
+      "story_id": "story_8b70abe0bcf8",
+      "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+      "url": "https://www.aibase.com/news/32095",
+      "primary_url": "https://www.aibase.com/news/32095",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "92de8520c7dbac60af3d9ff7325a8462db0daf2d",
-          "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
-          "title_zh": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+          "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
+          "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
           "title_en": null,
-          "title_original": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+          "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32030",
+          "url": "https://www.aibase.com/news/32095",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
+          "published_at": "2026-11-05T02:55:04.777410Z"
         }
       ],
       "source_count": 1,
@@ -1023,18 +730,18 @@
       ],
       "items": [
         {
-          "id": "92de8520c7dbac60af3d9ff7325a8462db0daf2d",
-          "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
-          "title_zh": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+          "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
+          "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+          "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
           "title_en": null,
-          "title_original": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+          "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32030",
+          "url": "https://www.aibase.com/news/32095",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
+          "published_at": "2026-11-05T02:55:04.777410Z"
         }
       ],
       "item_count": 1,
@@ -1055,17 +762,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T03:44:58.274038Z",
-      "latest_at": "2026-11-03T03:44:58.274038Z",
+      "earliest_at": "2026-11-05T02:55:04.777410Z",
+      "latest_at": "2026-11-05T02:55:04.777410Z",
       "primary_item": {
-        "id": "92de8520c7dbac60af3d9ff7325a8462db0daf2d",
-        "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
-        "title_zh": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+        "id": "628d21f15f54245a3a0def4ba41e2ac5f02d93e9",
+        "title": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
+        "title_zh": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
         "title_en": null,
-        "title_original": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+        "title_original": "Claude Code 松绑游戏禁令：提一句\"参考某游戏\"不再被拒",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32030",
+        "url": "https://www.aibase.com/news/32095",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1073,30 +780,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_e84f8b955979",
-      "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-      "url": "https://www.aibase.com/news/32035",
-      "primary_url": "https://www.aibase.com/news/32035",
+      "story_id": "story_36c313c0fbf0",
+      "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+      "url": "https://www.aibase.com/news/32096",
+      "primary_url": "https://www.aibase.com/news/32096",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
-          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-          "title_zh": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
+          "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
+          "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
           "title_en": null,
-          "title_original": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
+          "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32035",
+          "url": "https://www.aibase.com/news/32096",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
+          "published_at": "2026-11-05T02:55:04.777410Z"
         }
       ],
       "source_count": 1,
@@ -1105,18 +812,18 @@
       ],
       "items": [
         {
-          "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
-          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-          "title_zh": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
+          "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
+          "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+          "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
           "title_en": null,
-          "title_original": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
+          "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32035",
+          "url": "https://www.aibase.com/news/32096",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
+          "published_at": "2026-11-05T02:55:04.777410Z"
         }
       ],
       "item_count": 1,
@@ -1137,17 +844,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T03:44:58.274038Z",
-      "latest_at": "2026-11-03T03:44:58.274038Z",
+      "earliest_at": "2026-11-05T02:55:04.777410Z",
+      "latest_at": "2026-11-05T02:55:04.777410Z",
       "primary_item": {
-        "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
-        "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-        "title_zh": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
+        "id": "3aa40abea025579d7ff13ecca5f945430c568bbd",
+        "title": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
+        "title_zh": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
         "title_en": null,
-        "title_original": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
+        "title_original": "Meta收购AI编码初创公司Conductor，加码智能体编程赛道",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32035",
+        "url": "https://www.aibase.com/news/32096",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1155,30 +862,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_34ee254fb07e",
-      "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
-      "url": "https://www.aibase.com/news/32037",
-      "primary_url": "https://www.aibase.com/news/32037",
+      "story_id": "story_d511db0265a2",
+      "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+      "url": "https://www.aibase.com/news/32093",
+      "primary_url": "https://www.aibase.com/news/32093",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f13ed9bff2ca8160fcb1276808bffc0ff281287b",
-          "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
-          "title_zh": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
+          "id": "309b16945333dc2cf4f209ec5d71d66565fb7cdf",
+          "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+          "title_zh": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
           "title_en": null,
-          "title_original": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
+          "title_original": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32037",
+          "url": "https://www.aibase.com/news/32093",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
+          "published_at": "2026-11-05T02:55:04.777410Z"
         }
       ],
       "source_count": 1,
@@ -1187,18 +894,18 @@
       ],
       "items": [
         {
-          "id": "f13ed9bff2ca8160fcb1276808bffc0ff281287b",
-          "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
-          "title_zh": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
+          "id": "309b16945333dc2cf4f209ec5d71d66565fb7cdf",
+          "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+          "title_zh": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
           "title_en": null,
-          "title_original": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
+          "title_original": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32037",
+          "url": "https://www.aibase.com/news/32093",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
+          "published_at": "2026-11-05T02:55:04.777410Z"
         }
       ],
       "item_count": 1,
@@ -1219,17 +926,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T03:44:58.274038Z",
-      "latest_at": "2026-11-03T03:44:58.274038Z",
+      "earliest_at": "2026-11-05T02:55:04.777410Z",
+      "latest_at": "2026-11-05T02:55:04.777410Z",
       "primary_item": {
-        "id": "f13ed9bff2ca8160fcb1276808bffc0ff281287b",
-        "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
-        "title_zh": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
+        "id": "309b16945333dc2cf4f209ec5d71d66565fb7cdf",
+        "title": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
+        "title_zh": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
         "title_en": null,
-        "title_original": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
+        "title_original": "OpenAI发布 GPT Image 2.6 Sunburst 与 Flare，图像生成延迟低至 5 秒",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32037",
+        "url": "https://www.aibase.com/news/32093",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1237,30 +944,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_8467b22e7e69",
-      "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
-      "url": "https://www.aibase.com/news/32043",
-      "primary_url": "https://www.aibase.com/news/32043",
+      "story_id": "story_45491d707194",
+      "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+      "url": "https://www.aibase.com/news/32098",
+      "primary_url": "https://www.aibase.com/news/32098",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f92da665f02be092890609f6c830a99db8b1b11d",
-          "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
-          "title_zh": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+          "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
+          "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "title_zh": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
           "title_en": null,
-          "title_original": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+          "title_original": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32043",
+          "url": "https://www.aibase.com/news/32098",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
+          "published_at": "2026-11-05T02:55:04.777410Z"
         }
       ],
       "source_count": 1,
@@ -1269,18 +976,18 @@
       ],
       "items": [
         {
-          "id": "f92da665f02be092890609f6c830a99db8b1b11d",
-          "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
-          "title_zh": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+          "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
+          "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+          "title_zh": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
           "title_en": null,
-          "title_original": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+          "title_original": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32043",
+          "url": "https://www.aibase.com/news/32098",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
+          "published_at": "2026-11-05T02:55:04.777410Z"
         }
       ],
       "item_count": 1,
@@ -1301,17 +1008,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T03:44:58.274038Z",
-      "latest_at": "2026-11-03T03:44:58.274038Z",
+      "earliest_at": "2026-11-05T02:55:04.777410Z",
+      "latest_at": "2026-11-05T02:55:04.777410Z",
       "primary_item": {
-        "id": "f92da665f02be092890609f6c830a99db8b1b11d",
-        "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
-        "title_zh": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+        "id": "330bd5a15cabc7f77c14d8c93f3f001e058ccbe5",
+        "title": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
+        "title_zh": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
         "title_en": null,
-        "title_original": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+        "title_original": "OpenAI在ChatGPT内置GIF生成器，由未公开Images2.6模型驱动",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32043",
+        "url": "https://www.aibase.com/news/32098",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1319,477 +1026,970 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     },
     {
-      "story_id": "story_e0ca52c01be6",
-      "title": "人工智能时代中的“无我”数学",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-      "primary_url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-      "source": "terrytao.wordpress.com",
-      "source_name": "Buzzing",
+      "story_id": "story_21cdaf9c2e2b",
+      "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+      "url": "https://www.aibase.com/news/32092",
+      "primary_url": "https://www.aibase.com/news/32092",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "205384bc7157ffa156fe7b07fe129bae3741b5f4",
-          "title": "人工智能时代中的“无我”数学",
-          "title_zh": "人工智能时代中的“无我”数学",
+          "id": "991a8d67eea367f7ed9f1ab9add3c245f887065f",
+          "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "title_zh": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
           "title_en": null,
-          "title_original": "人工智能时代中的“无我”数学",
+          "title_original": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-          "source": "terrytao.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T00:29:45.651000Z"
-        },
+          "url": "https://www.aibase.com/news/32092",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T02:55:04.777410Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
         {
-          "id": "3a2b54bbb632030063640dc4db2fa2b44d0a3cbc",
-          "title": "人工智能时代中的“无我”数学 / Egoless Mathematics in the AI Era",
-          "title_zh": "人工智能时代中的“无我”数学",
-          "title_en": "Egoless Mathematics in the AI Era",
-          "title_original": "Egoless Mathematics in the AI Era",
+          "id": "991a8d67eea367f7ed9f1ab9add3c245f887065f",
+          "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "title_zh": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+          "title_en": null,
+          "title_original": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T18:54:44Z"
-        },
+          "url": "https://www.aibase.com/news/32092",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T02:55:04.777410Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T02:55:04.777410Z",
+      "latest_at": "2026-11-05T02:55:04.777410Z",
+      "primary_item": {
+        "id": "991a8d67eea367f7ed9f1ab9add3c245f887065f",
+        "title": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+        "title_zh": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+        "title_en": null,
+        "title_original": "iOS 27.3 beta 正式接入阿里千问，替代 ChatGPT 角色",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32092",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T03:34:18.748767Z"
+      }
+    },
+    {
+      "story_id": "story_8f4aedea0f10",
+      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "primary_url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
         {
-          "id": "81ddd3fa153afc44b11fc50e90005b97cf916615",
-          "title": "Egoless Mathematics in the AI Era",
+          "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+          "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
           "title_zh": null,
-          "title_en": "Egoless Mathematics in the AI Era",
-          "title_original": "Egoless Mathematics in the AI Era",
+          "title_en": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&#038;T’s smart security system",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50341736",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T18:54:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "terrytao.wordpress.com"
-      ],
-      "items": [
-        {
-          "id": "205384bc7157ffa156fe7b07fe129bae3741b5f4",
-          "title": "人工智能时代中的“无我”数学",
-          "title_zh": "人工智能时代中的“无我”数学",
-          "title_en": null,
-          "title_original": "人工智能时代中的“无我”数学",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-          "source": "terrytao.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T00:29:45.651000Z"
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T20:23:24Z"
         },
         {
-          "id": "3a2b54bbb632030063640dc4db2fa2b44d0a3cbc",
-          "title": "人工智能时代中的“无我”数学 / Egoless Mathematics in the AI Era",
-          "title_zh": "人工智能时代中的“无我”数学",
-          "title_en": "Egoless Mathematics in the AI Era",
-          "title_original": "Egoless Mathematics in the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T18:54:44Z"
-        },
-        {
-          "id": "81ddd3fa153afc44b11fc50e90005b97cf916615",
-          "title": "Egoless Mathematics in the AI Era",
+          "id": "74c50caeb57913861aee1bd42d65236d7219279e",
+          "title": "Gemini for Home now plugs into AT&T’s smart security system",
           "title_zh": null,
-          "title_en": "Egoless Mathematics in the AI Era",
-          "title_original": "Egoless Mathematics in the AI Era",
+          "title_en": "Gemini for Home now plugs into AT&T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&T’s smart security system",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50341736",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T18:54:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5625,
-      "importance": 0.5625,
-      "importance_score": 0.5625,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9541,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T18:54:44Z",
-      "latest_at": "2026-11-03T00:29:45.651000Z",
-      "primary_item": {
-        "id": "205384bc7157ffa156fe7b07fe129bae3741b5f4",
-        "title": "人工智能时代中的“无我”数学",
-        "title_zh": "人工智能时代中的“无我”数学",
-        "title_en": null,
-        "title_original": "人工智能时代中的“无我”数学",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-        "source": "terrytao.wordpress.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
-      }
-    },
-    {
-      "story_id": "story_b16eb5c0b11a",
-      "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-      "primary_url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-      "source": "www.techpolicy.press",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d2ceea843283bd87c899d19151b11b41d67dd07f",
-          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_zh": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_en": null,
-          "title_original": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-          "source": "www.techpolicy.press",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T00:13:47.603000Z"
-        },
-        {
-          "id": "94b1849da5d810b1ed8cb656a52714c1c7b5b84c",
-          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益 / The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_zh": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_en": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_original": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T22:30:47Z"
-        },
-        {
-          "id": "1c8e25a9cb4e3b3200160438b200eef22ea41310",
-          "title": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众 / The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_zh": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众",
-          "title_en": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_original": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50344919",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T22:30:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.techpolicy.press"
-      ],
-      "items": [
-        {
-          "id": "d2ceea843283bd87c899d19151b11b41d67dd07f",
-          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_zh": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_en": null,
-          "title_original": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-          "source": "www.techpolicy.press",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T00:13:47.603000Z"
-        },
-        {
-          "id": "94b1849da5d810b1ed8cb656a52714c1c7b5b84c",
-          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益 / The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_zh": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_en": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_original": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T22:30:47Z"
-        },
-        {
-          "id": "1c8e25a9cb4e3b3200160438b200eef22ea41310",
-          "title": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众 / The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_zh": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众",
-          "title_en": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_original": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50344919",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T22:30:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5619,
-      "importance": 0.5619,
-      "importance_score": 0.5619,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9504,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T22:30:47Z",
-      "latest_at": "2026-11-03T00:13:47.603000Z",
-      "primary_item": {
-        "id": "d2ceea843283bd87c899d19151b11b41d67dd07f",
-        "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-        "title_zh": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-        "title_en": null,
-        "title_original": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-        "source": "www.techpolicy.press",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
-      }
-    },
-    {
-      "story_id": "story_b9770a8bc833",
-      "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-      "url": "https://www.aibase.com/news/32027",
-      "primary_url": "https://www.aibase.com/news/32027",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb2469107bd486a493cc94c2428c355ec119bcc6",
-          "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-          "title_zh": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-          "title_en": null,
-          "title_original": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32027",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bb2469107bd486a493cc94c2428c355ec119bcc6",
-          "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-          "title_zh": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-          "title_en": null,
-          "title_original": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32027",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:44:58.274038Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:44:58.274038Z",
-      "latest_at": "2026-11-03T03:44:58.274038Z",
-      "primary_item": {
-        "id": "bb2469107bd486a493cc94c2428c355ec119bcc6",
-        "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-        "title_zh": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-        "title_en": null,
-        "title_original": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32027",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
-      }
-    },
-    {
-      "story_id": "story_a25a8d8e8b8e",
-      "title": "Anthropic 的增长势头刚刚趋于平缓",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "primary_url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "source": "www.regenerator1.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2e0829606cabf058fc2ffa32d4f8cd506af8b5d2",
-          "title": "Anthropic 的增长势头刚刚趋于平缓",
-          "title_zh": "Anthropic 的增长势头刚刚趋于平缓",
-          "title_en": null,
-          "title_original": "Anthropic 的增长势头刚刚趋于平缓",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-          "source": "www.regenerator1.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T23:57:43.658000Z"
-        },
-        {
-          "id": "414c04532caf55e53dcda6e1aacf0c471332bb26",
-          "title": "Anthropic 的增长势头刚刚趋于平缓 / Anthropic's growth just flattened",
-          "title_zh": "Anthropic 的增长势头刚刚趋于平缓",
-          "title_en": "Anthropic's growth just flattened",
-          "title_original": "Anthropic's growth just flattened",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-02T22:33:20Z"
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T20:23:24Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.regenerator1.com"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "2e0829606cabf058fc2ffa32d4f8cd506af8b5d2",
-          "title": "Anthropic 的增长势头刚刚趋于平缓",
-          "title_zh": "Anthropic 的增长势头刚刚趋于平缓",
-          "title_en": null,
-          "title_original": "Anthropic 的增长势头刚刚趋于平缓",
+          "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+          "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_zh": null,
+          "title_en": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&#038;T’s smart security system",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-          "source": "www.regenerator1.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T23:57:43.658000Z"
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-04T20:23:24Z"
         },
         {
-          "id": "414c04532caf55e53dcda6e1aacf0c471332bb26",
-          "title": "Anthropic 的增长势头刚刚趋于平缓 / Anthropic's growth just flattened",
-          "title_zh": "Anthropic 的增长势头刚刚趋于平缓",
-          "title_en": "Anthropic's growth just flattened",
-          "title_original": "Anthropic's growth just flattened",
+          "id": "74c50caeb57913861aee1bd42d65236d7219279e",
+          "title": "Gemini for Home now plugs into AT&T’s smart security system",
+          "title_zh": null,
+          "title_en": "Gemini for Home now plugs into AT&T’s smart security system",
+          "title_original": "Gemini for Home now plugs into AT&T’s smart security system",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-02T22:33:20Z"
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-04T20:23:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.6118,
+      "importance": 0.6118,
+      "importance_score": 0.6118,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9468,
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.91,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-02T22:33:20Z",
-      "latest_at": "2026-11-02T23:57:43.658000Z",
+      "earliest_at": "2026-11-04T20:23:24Z",
+      "latest_at": "2026-11-04T20:23:24Z",
       "primary_item": {
-        "id": "2e0829606cabf058fc2ffa32d4f8cd506af8b5d2",
-        "title": "Anthropic 的增长势头刚刚趋于平缓",
-        "title_zh": "Anthropic 的增长势头刚刚趋于平缓",
-        "title_en": null,
-        "title_original": "Anthropic 的增长势头刚刚趋于平缓",
+        "id": "764092e4092f94e4d6af6e527ac149665fbf35b7",
+        "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "title_zh": null,
+        "title_en": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "title_original": "Gemini for Home now plugs into AT&#038;T’s smart security system",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-        "source": "www.regenerator1.com",
+        "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T03:34:18.748767Z"
+      }
+    },
+    {
+      "story_id": "story_029299243a7c",
+      "title": "2027 年最赚钱的 AI 创业方向",
+      "url": "https://waytoagi.feishu.cn/wiki/ZteLwVN3eiUnjakr0nWcxA76ncb?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/ZteLwVN3eiUnjakr0nWcxA76ncb?from=from_copylink",
+      "source": "社区更新 · 2026-11-04",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "53d04e907a8b771810bd88e7ae3a8e92255b9d0f",
+          "title": "2027 年最赚钱的 AI 创业方向",
+          "title_zh": "2027 年最赚钱的 AI 创业方向",
+          "title_en": null,
+          "title_original": "2027 年最赚钱的 AI 创业方向",
+          "summary": "AI 能批量写内容，很多账号却越发越像：有曝光，没信任；有选题，没客户。问题常常出在只顾发帖，却没想清楚“这个人为什么值得被长期关注”。Doe Koe这篇最新文章适合创作者细读。",
+          "recommend_reason_zh": null,
+          "url": "https://waytoagi.feishu.cn/wiki/ZteLwVN3eiUnjakr0nWcxA76ncb?from=from_copylink",
+          "source": "社区更新 · 2026-11-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-05T02:55:04.777410Z"
+        },
+        {
+          "id": "2d7ead2da199600455e9be2b4eb801bdd2832652",
+          "title": "2027 年最赚钱的 AI 创业方向",
+          "title_zh": "2027 年最赚钱的 AI 创业方向",
+          "title_en": null,
+          "title_original": "2027 年最赚钱的 AI 创业方向",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://juejin.cn/post/7704140653420888091",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-05T02:55:43.035000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "juejin",
+        "社区更新 · 2026-11-04"
+      ],
+      "items": [
+        {
+          "id": "53d04e907a8b771810bd88e7ae3a8e92255b9d0f",
+          "title": "2027 年最赚钱的 AI 创业方向",
+          "title_zh": "2027 年最赚钱的 AI 创业方向",
+          "title_en": null,
+          "title_original": "2027 年最赚钱的 AI 创业方向",
+          "summary": "AI 能批量写内容，很多账号却越发越像：有曝光，没信任；有选题，没客户。问题常常出在只顾发帖，却没想清楚“这个人为什么值得被长期关注”。Doe Koe这篇最新文章适合创作者细读。",
+          "recommend_reason_zh": null,
+          "url": "https://waytoagi.feishu.cn/wiki/ZteLwVN3eiUnjakr0nWcxA76ncb?from=from_copylink",
+          "source": "社区更新 · 2026-11-04",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-05T02:55:04.777410Z"
+        },
+        {
+          "id": "2d7ead2da199600455e9be2b4eb801bdd2832652",
+          "title": "2027 年最赚钱的 AI 创业方向",
+          "title_zh": "2027 年最赚钱的 AI 创业方向",
+          "title_en": null,
+          "title_original": "2027 年最赚钱的 AI 创业方向",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://juejin.cn/post/7704140653420888091",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-05T02:55:43.035000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-05T02:55:04.777410Z",
+      "latest_at": "2026-11-05T02:55:43.035000Z",
+      "primary_item": {
+        "id": "53d04e907a8b771810bd88e7ae3a8e92255b9d0f",
+        "title": "2027 年最赚钱的 AI 创业方向",
+        "title_zh": "2027 年最赚钱的 AI 创业方向",
+        "title_en": null,
+        "title_original": "2027 年最赚钱的 AI 创业方向",
+        "summary": "AI 能批量写内容，很多账号却越发越像：有曝光，没信任；有选题，没客户。问题常常出在只顾发帖，却没想清楚“这个人为什么值得被长期关注”。Doe Koe这篇最新文章适合创作者细读。",
+        "recommend_reason_zh": null,
+        "url": "https://waytoagi.feishu.cn/wiki/ZteLwVN3eiUnjakr0nWcxA76ncb?from=from_copylink",
+        "source": "社区更新 · 2026-11-04",
+        "source_name": "WaytoAGI"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T03:34:18.748767Z"
+      }
+    },
+    {
+      "story_id": "story_28626aa2ea8f",
+      "title": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+      "url": "https://www.aibase.com/news/32099",
+      "primary_url": "https://www.aibase.com/news/32099",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ecfaa7de7fa8d5fdd5340f0445ad4b00ba3c1030",
+          "title": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+          "title_zh": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+          "title_en": null,
+          "title_original": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32099",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T02:55:04.777410Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ecfaa7de7fa8d5fdd5340f0445ad4b00ba3c1030",
+          "title": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+          "title_zh": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+          "title_en": null,
+          "title_original": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32099",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T02:55:04.777410Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T02:55:04.777410Z",
+      "latest_at": "2026-11-05T02:55:04.777410Z",
+      "primary_item": {
+        "id": "ecfaa7de7fa8d5fdd5340f0445ad4b00ba3c1030",
+        "title": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+        "title_zh": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+        "title_en": null,
+        "title_original": "拍一拍即知底价:国行苹果AI开启Beta测试并接入得物App",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32099",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T03:34:18.748767Z"
+      }
+    },
+    {
+      "story_id": "story_136f6689901b",
+      "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "primary_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "www.qualcomm.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_zh": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_en": null,
+          "title_original": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "www.qualcomm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T01:44:43.584000Z"
+        },
+        {
+          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T19:55:14Z"
+        },
+        {
+          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": null,
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50370654",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T19:55:14Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.qualcomm.com"
+      ],
+      "items": [
+        {
+          "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_zh": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_en": null,
+          "title_original": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "www.qualcomm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T01:44:43.584000Z"
+        },
+        {
+          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T19:55:14Z"
+        },
+        {
+          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": null,
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50370654",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T19:55:14Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5678,
+      "importance": 0.5678,
+      "importance_score": 0.5678,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9832,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T19:55:14Z",
+      "latest_at": "2026-11-05T01:44:43.584000Z",
+      "primary_item": {
+        "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+        "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+        "title_zh": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+        "title_en": null,
+        "title_original": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+        "source": "www.qualcomm.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T03:46:05.172021Z"
+        "scored_at": "2026-11-05T03:34:18.748767Z"
+      }
+    },
+    {
+      "story_id": "story_f1b3ff20dd40",
+      "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+      "url": "https://www.aibase.com/news/32100",
+      "primary_url": "https://www.aibase.com/news/32100",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "title_zh": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "title_en": null,
+          "title_original": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32100",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T02:55:04.777410Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "title_zh": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "title_en": null,
+          "title_original": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32100",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T02:55:04.777410Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T02:55:04.777410Z",
+      "latest_at": "2026-11-05T02:55:04.777410Z",
+      "primary_item": {
+        "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+        "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+        "title_zh": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+        "title_en": null,
+        "title_original": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32100",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T03:34:18.748767Z"
+      }
+    },
+    {
+      "story_id": "story_d485cbc703f0",
+      "title": "大型语言模型可证明推理方面的进展",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "primary_url": "https://www.anthropic.com/research/provable-inference",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+          "title": "大型语言模型可证明推理方面的进展",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": null,
+          "title_original": "大型语言模型可证明推理方面的进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T19:37:46.946000Z"
+        },
+        {
+          "id": "348d9e158e28595c981f0e9a280b0642db152915",
+          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Progress on provable inference for large language models",
+          "title_original": "Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T17:17:46Z"
+        },
+        {
+          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
+          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Anthropic: Progress on provable inference for large language models",
+          "title_original": "Anthropic: Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-04T07:57:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+          "title": "大型语言模型可证明推理方面的进展",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": null,
+          "title_original": "大型语言模型可证明推理方面的进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T19:37:46.946000Z"
+        },
+        {
+          "id": "348d9e158e28595c981f0e9a280b0642db152915",
+          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Progress on provable inference for large language models",
+          "title_original": "Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T17:17:46Z"
+        },
+        {
+          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
+          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Anthropic: Progress on provable inference for large language models",
+          "title_original": "Anthropic: Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-04T07:57:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5528,
+      "importance": 0.5528,
+      "importance_score": 0.5528,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9001,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T07:57:06Z",
+      "latest_at": "2026-11-04T19:37:46.946000Z",
+      "primary_item": {
+        "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+        "title": "大型语言模型可证明推理方面的进展",
+        "title_zh": "大型语言模型可证明推理方面的进展",
+        "title_en": null,
+        "title_original": "大型语言模型可证明推理方面的进展",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/provable-inference",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T03:34:18.748767Z"
+      }
+    },
+    {
+      "story_id": "story_22367b7e8017",
+      "title": "图 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "primary_url": "https://openai.com/index/introducing-images-2-6",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+          "title": "图 2.6",
+          "title_zh": "图 2.6",
+          "title_en": null,
+          "title_original": "图 2.6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:17:02.236000Z"
+        },
+        {
+          "id": "764fca460568a3a59b474225bdad8d9fcd4be7cb",
+          "title": "图 2.6 / Images 2.6",
+          "title_zh": "图 2.6",
+          "title_en": "Images 2.6",
+          "title_original": "Images 2.6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T23:35:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+          "title": "图 2.6",
+          "title_zh": "图 2.6",
+          "title_en": null,
+          "title_original": "图 2.6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:17:02.236000Z"
+        },
+        {
+          "id": "764fca460568a3a59b474225bdad8d9fcd4be7cb",
+          "title": "图 2.6 / Images 2.6",
+          "title_zh": "图 2.6",
+          "title_en": "Images 2.6",
+          "title_original": "Images 2.6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T23:35:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9909,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T23:35:44Z",
+      "latest_at": "2026-11-05T02:17:02.236000Z",
+      "primary_item": {
+        "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+        "title": "图 2.6",
+        "title_zh": "图 2.6",
+        "title_en": null,
+        "title_original": "图 2.6",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-images-2-6",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T03:34:18.748767Z"
+      }
+    },
+    {
+      "story_id": "story_90365e95fff3",
+      "title": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "primary_url": "https://news.ycombinator.com/item?id=50366117",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2a963d6b8c4e4cfa2ff2aaa7b8ec7178b99d99e2",
+          "title": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+          "title_zh": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+          "title_en": null,
+          "title_original": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50366117",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T00:56:50.104000Z"
+        },
+        {
+          "id": "b80423db2b737463a71d99f4a1bfbc671ff62ef0",
+          "title": "Ask HN: 你目前的人工智能代理配置是怎样的？ / Ask HN: What's your current AI agentic setup?",
+          "title_zh": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+          "title_en": "Ask HN: What's your current AI agentic setup?",
+          "title_original": "Ask HN: What's your current AI agentic setup?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50366117",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T14:37:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "2a963d6b8c4e4cfa2ff2aaa7b8ec7178b99d99e2",
+          "title": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+          "title_zh": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+          "title_en": null,
+          "title_original": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50366117",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T00:56:50.104000Z"
+        },
+        {
+          "id": "b80423db2b737463a71d99f4a1bfbc671ff62ef0",
+          "title": "Ask HN: 你目前的人工智能代理配置是怎样的？ / Ask HN: What's your current AI agentic setup?",
+          "title_zh": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+          "title_en": "Ask HN: What's your current AI agentic setup?",
+          "title_original": "Ask HN: What's your current AI agentic setup?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50366117",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T14:37:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9719,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T14:37:22Z",
+      "latest_at": "2026-11-05T00:56:50.104000Z",
+      "primary_item": {
+        "id": "2a963d6b8c4e4cfa2ff2aaa7b8ec7178b99d99e2",
+        "title": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+        "title_zh": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+        "title_en": null,
+        "title_original": "Ask HN: 你目前的人工智能代理配置是怎样的？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=50366117",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T03:34:18.748767Z"
       }
     }
   ]
