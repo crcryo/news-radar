@@ -1,391 +1,29 @@
 {
-  "generated_at": "2026-11-12T03:27:09.876851Z",
+  "generated_at": "2026-11-14T02:45:05.032289Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7cdb17a331c3",
-      "title": "Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d34fdd0eb814c13951424ba430c3a8ab0b3f570c",
-          "title": "Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "title_zh": "Gemini Decisions API：快速、经过校准的多模式决策",
-          "title_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "title_original": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T18:00:00Z"
-        },
-        {
-          "id": "00c31ea82fe2b6c039ea7b0b1dec1d75714104e5",
-          "title": "Gemini Decisions API",
-          "title_zh": null,
-          "title_en": "Gemini Decisions API",
-          "title_original": "Gemini Decisions API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T21:32:55.550000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "blog.google"
-      ],
-      "items": [
-        {
-          "id": "d34fdd0eb814c13951424ba430c3a8ab0b3f570c",
-          "title": "Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "title_zh": "Gemini Decisions API：快速、经过校准的多模式决策",
-          "title_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "title_original": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T18:00:00Z"
-        },
-        {
-          "id": "00c31ea82fe2b6c039ea7b0b1dec1d75714104e5",
-          "title": "Gemini Decisions API",
-          "title_zh": null,
-          "title_en": "Gemini Decisions API",
-          "title_original": "Gemini Decisions API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T21:32:55.550000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.854,
-      "importance": 0.854,
-      "importance_score": 0.854,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8724,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T18:00:00Z",
-      "latest_at": "2026-11-11T21:32:55.550000Z",
-      "primary_item": {
-        "id": "d34fdd0eb814c13951424ba430c3a8ab0b3f570c",
-        "title": "Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions",
-        "title_zh": "Gemini Decisions API：快速、经过校准的多模式决策",
-        "title_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-        "title_original": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_8f1b2af00c00",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_zh": null,
-          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_zh": null,
-          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9514,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T00:00:00Z",
-      "latest_at": "2026-11-12T00:00:00Z",
-      "primary_item": {
-        "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-        "title": "Gilbert + Tobin rethinks the business of law with AI",
-        "title_zh": null,
-        "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-        "title_original": "Gilbert + Tobin rethinks the business of law with AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_435472482058",
-      "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
-      "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-      "primary_url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "271d467320e0561411f36d7cc2d28333a239c03a",
-          "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
-          "title_zh": "问题类型和字段适用于个人账户",
-          "title_en": "Issue types and fields are available for personal accounts",
-          "title_original": "Issue types and fields are available for personal accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T17:16:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "271d467320e0561411f36d7cc2d28333a239c03a",
-          "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
-          "title_zh": "问题类型和字段适用于个人账户",
-          "title_en": "Issue types and fields are available for personal accounts",
-          "title_original": "Issue types and fields are available for personal accounts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T17:16:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8634,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T17:16:46Z",
-      "latest_at": "2026-11-11T17:16:46Z",
-      "primary_item": {
-        "id": "271d467320e0561411f36d7cc2d28333a239c03a",
-        "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
-        "title_zh": "问题类型和字段适用于个人账户",
-        "title_en": "Issue types and fields are available for personal accounts",
-        "title_original": "Issue types and fields are available for personal accounts",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_1a16cc65282e",
-      "title": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病 / AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-      "primary_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
-          "title": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病 / AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_zh": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病",
-          "title_en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_original": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T15:00:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
-          "title": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病 / AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_zh": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病",
-          "title_en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "title_original": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T15:00:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8355,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T15:00:15Z",
-      "latest_at": "2026-11-11T15:00:15Z",
-      "primary_item": {
-        "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
-        "title": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病 / AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "title_zh": "AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病",
-        "title_en": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "title_original": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_3f407db2138d",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "primary_url": "https://huggingface.co/blog/qvac/botpsy",
+      "story_id": "story_010ac45cd0c9",
+      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_zh": null,
-          "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T05:01:16Z"
+          "published_at": "2026-11-13T18:00:39Z"
         }
       ],
       "source_count": 1,
@@ -394,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_zh": null,
-          "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+          "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T05:01:16Z"
+          "published_at": "2026-11-13T18:00:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7233,
+        "ai_relevance": 0.98,
+        "recency": 0.8814,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,17 +65,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T05:01:16Z",
-      "latest_at": "2026-11-11T05:01:16Z",
+      "earliest_at": "2026-11-13T18:00:39Z",
+      "latest_at": "2026-11-13T18:00:39Z",
       "primary_item": {
-        "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "title_zh": null,
-        "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_zh": "使用 SimReady Assets 构建机器人拾放模拟",
+        "title_en": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "title_original": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -445,63 +83,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
+        "scored_at": "2026-11-14T02:45:59.847174Z"
       }
     },
     {
-      "story_id": "story_c58cc76086ab",
-      "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-      "source": "Google AI Blog",
+      "story_id": "story_e0ce3fdbb288",
+      "title": "Gemini 4 Hydrogen in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-          "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_zh": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。",
-          "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_original": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
+          "title": "Gemini 4 Hydrogen in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Hydrogen in GitHub Copilot",
+          "title_original": "Gemini 4 Hydrogen in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-          "source": "Google AI Blog",
+          "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T16:00:00Z"
+          "published_at": "2026-11-13T18:23:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-          "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_zh": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。",
-          "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "title_original": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
+          "title": "Gemini 4 Hydrogen in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Hydrogen in GitHub Copilot",
+          "title_original": "Gemini 4 Hydrogen in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-          "source": "Google AI Blog",
+          "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T16:00:00Z"
+          "published_at": "2026-11-13T18:23:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8476,
+        "ai_relevance": 0.95,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "official",
@@ -510,48 +148,48 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T16:00:00Z",
-      "latest_at": "2026-11-11T16:00:00Z",
+      "earliest_at": "2026-11-13T18:23:48Z",
+      "latest_at": "2026-11-13T18:23:48Z",
       "primary_item": {
-        "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-        "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "title_zh": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。",
-        "title_en": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "title_original": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+        "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
+        "title": "Gemini 4 Hydrogen in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Gemini 4 Hydrogen in GitHub Copilot",
+        "title_original": "Gemini 4 Hydrogen in GitHub Copilot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-        "source": "Google AI Blog",
+        "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
+        "scored_at": "2026-11-14T02:45:59.847174Z"
       }
     },
     {
-      "story_id": "story_3712fd9f7ee1",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "primary_url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "story_id": "story_a9f8b4a664f6",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-wallet",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
-          "title": "ChatGPT Plus for veterans and servicemembers",
+          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+          "title": "Introducing ChatGPT Wallet",
           "title_zh": null,
-          "title_en": "ChatGPT Plus for veterans and servicemembers",
-          "title_original": "ChatGPT Plus for veterans and servicemembers",
+          "title_en": "Introducing ChatGPT Wallet",
+          "title_original": "Introducing ChatGPT Wallet",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T08:00:00Z"
+          "published_at": "2026-11-13T15:00:00Z"
         }
       ],
       "source_count": 1,
@@ -560,31 +198,31 @@
       ],
       "items": [
         {
-          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
-          "title": "ChatGPT Plus for veterans and servicemembers",
+          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+          "title": "Introducing ChatGPT Wallet",
           "title_zh": null,
-          "title_en": "ChatGPT Plus for veterans and servicemembers",
-          "title_original": "ChatGPT Plus for veterans and servicemembers",
+          "title_en": "Introducing ChatGPT Wallet",
+          "title_original": "Introducing ChatGPT Wallet",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T08:00:00Z"
+          "published_at": "2026-11-13T15:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7551,
+        "recency": 0.8439,
         "story_heat": 0.0
       },
       "category": "official",
@@ -593,17 +231,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T08:00:00Z",
-      "latest_at": "2026-11-11T08:00:00Z",
+      "earliest_at": "2026-11-13T15:00:00Z",
+      "latest_at": "2026-11-13T15:00:00Z",
       "primary_item": {
-        "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
-        "title": "ChatGPT Plus for veterans and servicemembers",
+        "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+        "title": "Introducing ChatGPT Wallet",
         "title_zh": null,
-        "title_en": "ChatGPT Plus for veterans and servicemembers",
-        "title_original": "ChatGPT Plus for veterans and servicemembers",
+        "title_en": "Introducing ChatGPT Wallet",
+        "title_original": "Introducing ChatGPT Wallet",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -611,145 +249,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
+        "scored_at": "2026-11-14T02:45:59.847174Z"
       }
     },
     {
-      "story_id": "story_59ef3274551b",
-      "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-      "url": "https://www.aibase.com/news/32266",
-      "primary_url": "https://www.aibase.com/news/32266",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
-          "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-          "title_zh": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-          "title_en": null,
-          "title_original": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32266",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
-          "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-          "title_zh": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-          "title_en": null,
-          "title_original": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32266",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:27:09.876851Z",
-      "latest_at": "2026-11-12T03:27:09.876851Z",
-      "primary_item": {
-        "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
-        "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-        "title_zh": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-        "title_en": null,
-        "title_original": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32266",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_90b08b2467a3",
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-      "primary_url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-      "source": "Google AI Blog",
+      "story_id": "story_6462d932fa5b",
+      "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "primary_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b987ab812262afb4d370b04d94c99774bc976b63",
-          "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-          "title_zh": null,
-          "title_en": "Experience the art and legacy of Dr. Esther Mahlangu",
-          "title_original": "Experience the art and legacy of Dr. Esther Mahlangu",
+          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-          "source": "Google AI Blog",
+          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T09:00:00Z"
+          "published_at": "2026-11-13T20:40:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "b987ab812262afb4d370b04d94c99774bc976b63",
-          "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-          "title_zh": null,
-          "title_en": "Experience the art and legacy of Dr. Esther Mahlangu",
-          "title_original": "Experience the art and legacy of Dr. Esther Mahlangu",
+          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-          "source": "Google AI Blog",
+          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T09:00:00Z"
+          "published_at": "2026-11-13T20:40:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7661,
+        "ai_relevance": 0.91,
+        "recency": 0.9159,
         "story_heat": 0.0
       },
       "category": "official",
@@ -758,1069 +314,1447 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T09:00:00Z",
-      "latest_at": "2026-11-11T09:00:00Z",
+      "earliest_at": "2026-11-13T20:40:05Z",
+      "latest_at": "2026-11-13T20:40:05Z",
       "primary_item": {
-        "id": "b987ab812262afb4d370b04d94c99774bc976b63",
-        "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-        "title_zh": null,
-        "title_en": "Experience the art and legacy of Dr. Esther Mahlangu",
-        "title_original": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+        "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+        "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
+        "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
+        "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-        "source": "Google AI Blog",
+        "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
+        "scored_at": "2026-11-14T02:45:59.847174Z"
       }
     },
     {
-      "story_id": "story_c3fcc69c43e8",
-      "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-      "url": "https://www.aibase.com/news/32263",
-      "primary_url": "https://www.aibase.com/news/32263",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_65948bc08832",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "primary_url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
-          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-          "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-          "title_en": null,
-          "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32263",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
-          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-          "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-          "title_en": null,
-          "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32263",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:27:09.876851Z",
-      "latest_at": "2026-11-12T03:27:09.876851Z",
-      "primary_item": {
-        "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
-        "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-        "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-        "title_en": null,
-        "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32263",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_4b7ec03ba0be",
-      "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-      "url": "https://www.aibase.com/news/32258",
-      "primary_url": "https://www.aibase.com/news/32258",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3febc3f7f055fbf4676adb3a29bd8098e291d55d",
-          "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-          "title_zh": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-          "title_en": null,
-          "title_original": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32258",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3febc3f7f055fbf4676adb3a29bd8098e291d55d",
-          "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-          "title_zh": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-          "title_en": null,
-          "title_original": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32258",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:27:09.876851Z",
-      "latest_at": "2026-11-12T03:27:09.876851Z",
-      "primary_item": {
-        "id": "3febc3f7f055fbf4676adb3a29bd8098e291d55d",
-        "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-        "title_zh": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-        "title_en": null,
-        "title_original": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32258",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_870fd07b8f75",
-      "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
-      "url": "https://www.aibase.com/news/32267",
-      "primary_url": "https://www.aibase.com/news/32267",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
-          "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
-          "title_zh": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
-          "title_en": null,
-          "title_original": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32267",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
-          "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
-          "title_zh": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
-          "title_en": null,
-          "title_original": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32267",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:27:09.876851Z",
-      "latest_at": "2026-11-12T03:27:09.876851Z",
-      "primary_item": {
-        "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
-        "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
-        "title_zh": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
-        "title_en": null,
-        "title_original": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32267",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_03424947e690",
-      "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-      "url": "https://www.aibase.com/news/32262",
-      "primary_url": "https://www.aibase.com/news/32262",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "38fee6133505854eaebd12829a0a47d242614cf6",
-          "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-          "title_zh": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-          "title_en": null,
-          "title_original": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32262",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "38fee6133505854eaebd12829a0a47d242614cf6",
-          "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-          "title_zh": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-          "title_en": null,
-          "title_original": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32262",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:27:09.876851Z",
-      "latest_at": "2026-11-12T03:27:09.876851Z",
-      "primary_item": {
-        "id": "38fee6133505854eaebd12829a0a47d242614cf6",
-        "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-        "title_zh": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-        "title_en": null,
-        "title_original": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32262",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_18f0a002922c",
-      "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
-      "url": "https://www.aibase.com/news/32265",
-      "primary_url": "https://www.aibase.com/news/32265",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "526898cb6112a3c791d3a7c70e5657a4fc2ab718",
-          "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
-          "title_zh": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
-          "title_en": null,
-          "title_original": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32265",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "526898cb6112a3c791d3a7c70e5657a4fc2ab718",
-          "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
-          "title_zh": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
-          "title_en": null,
-          "title_original": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32265",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:27:09.876851Z",
-      "latest_at": "2026-11-12T03:27:09.876851Z",
-      "primary_item": {
-        "id": "526898cb6112a3c791d3a7c70e5657a4fc2ab718",
-        "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
-        "title_zh": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
-        "title_en": null,
-        "title_original": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32265",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_f86d86d4a200",
-      "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-      "url": "https://www.aibase.com/news/32259",
-      "primary_url": "https://www.aibase.com/news/32259",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a63a2806cb54f0488899842909c84c5a27412928",
-          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-          "title_zh": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-          "title_en": null,
-          "title_original": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32259",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a63a2806cb54f0488899842909c84c5a27412928",
-          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-          "title_zh": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-          "title_en": null,
-          "title_original": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32259",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:27:09.876851Z",
-      "latest_at": "2026-11-12T03:27:09.876851Z",
-      "primary_item": {
-        "id": "a63a2806cb54f0488899842909c84c5a27412928",
-        "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-        "title_zh": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-        "title_en": null,
-        "title_original": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32259",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_6735f80a27bd",
-      "title": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
-      "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
-      "primary_url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "d4cac9439147c6f5c2ef9bc4182125f3594be4de",
-          "title": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench: Helping with the problem behind the question",
           "title_zh": null,
-          "title_en": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
-          "title_original": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
-          "source": "Slashdot",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T17:02:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench: Helping with the problem behind the question",
+          "title_zh": null,
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T17:02:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8692,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T17:02:35Z",
+      "latest_at": "2026-11-13T17:02:35Z",
+      "primary_item": {
+        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+        "title": "XYBench: Helping with the problem behind the question",
+        "title_zh": null,
+        "title_en": "XYBench: Helping with the problem behind the question",
+        "title_original": "XYBench: Helping with the problem behind the question",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/xybench",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_9a507b7582fa",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "primary_url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_zh": null,
+          "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_zh": null,
+          "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7628,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T08:00:00Z",
+      "latest_at": "2026-11-13T08:00:00Z",
+      "primary_item": {
+        "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "title_zh": null,
+        "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/customer-stories/shield",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_ce1046eebd38",
+      "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+          "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持",
+          "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T18:27:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+          "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持",
+          "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T18:27:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8871,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T18:27:13Z",
+      "latest_at": "2026-11-13T18:27:13Z",
+      "primary_item": {
+        "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+        "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+        "title_zh": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持",
+        "title_en": "GitHub Enterprise Server support in the GitHub Copilot app",
+        "title_original": "GitHub Enterprise Server support in the GitHub Copilot app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_9113026e72af",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": null,
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T14:05:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": null,
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T14:05:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8329,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T14:05:22Z",
+      "latest_at": "2026-11-13T14:05:22Z",
+      "primary_item": {
+        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_zh": null,
+        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_abb7247ae009",
+      "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+      "url": "https://www.aibase.com/news/32322",
+      "primary_url": "https://www.aibase.com/news/32322",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
+          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "title_en": null,
+          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32322",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T18:45:05.032289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
+          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "title_en": null,
+          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32322",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T18:45:05.032289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8909,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T18:45:05.032289Z",
+      "latest_at": "2026-11-13T18:45:05.032289Z",
+      "primary_item": {
+        "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
+        "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+        "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+        "title_en": null,
+        "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32322",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_83023b0bea9d",
+      "title": "Manage AI Scan for repositories using the REST API",
+      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "80ac462642d08ac454ccc85158579adc912e472c",
+          "title": "Manage AI Scan for repositories using the REST API",
+          "title_zh": null,
+          "title_en": "Manage AI Scan for repositories using the REST API",
+          "title_original": "Manage AI Scan for repositories using the REST API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T12:22:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "80ac462642d08ac454ccc85158579adc912e472c",
+          "title": "Manage AI Scan for repositories using the REST API",
+          "title_zh": null,
+          "title_en": "Manage AI Scan for repositories using the REST API",
+          "title_original": "Manage AI Scan for repositories using the REST API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T12:22:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8126,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T12:22:41Z",
+      "latest_at": "2026-11-13T12:22:41Z",
+      "primary_item": {
+        "id": "80ac462642d08ac454ccc85158579adc912e472c",
+        "title": "Manage AI Scan for repositories using the REST API",
+        "title_zh": null,
+        "title_en": "Manage AI Scan for repositories using the REST API",
+        "title_original": "Manage AI Scan for repositories using the REST API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_e3631194f721",
+      "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+      "url": "https://www.aibase.com/news/32320",
+      "primary_url": "https://www.aibase.com/news/32320",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "title_en": null,
+          "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T17:45:05.032289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "title_en": null,
+          "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T17:45:05.032289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T17:45:05.032289Z",
+      "latest_at": "2026-11-13T17:45:05.032289Z",
+      "primary_item": {
+        "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+        "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+        "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+        "title_en": null,
+        "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32320",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_bf0c061cd80d",
+      "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+      "url": "https://www.aibase.com/news/32321",
+      "primary_url": "https://www.aibase.com/news/32321",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "299acdd956cdad513ff6a759adb2eec679532916",
+          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "title_en": null,
+          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32321",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T17:45:05.032289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "299acdd956cdad513ff6a759adb2eec679532916",
+          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "title_en": null,
+          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32321",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T17:45:05.032289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T17:45:05.032289Z",
+      "latest_at": "2026-11-13T17:45:05.032289Z",
+      "primary_item": {
+        "id": "299acdd956cdad513ff6a759adb2eec679532916",
+        "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+        "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+        "title_en": null,
+        "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32321",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_2a6b152b8296",
+      "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+      "url": "https://www.aibase.com/news/32315",
+      "primary_url": "https://www.aibase.com/news/32315",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_en": null,
+          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32315",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:45:05.032289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_en": null,
+          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32315",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:45:05.032289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T16:45:05.032289Z",
+      "latest_at": "2026-11-13T16:45:05.032289Z",
+      "primary_item": {
+        "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+        "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+        "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+        "title_en": null,
+        "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32315",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_474574a00147",
+      "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "primary_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "01243e8890326cbc6dad58f0babc7f553d980032",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "title_zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！",
+          "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-13T18:40:30Z"
+        },
+        {
+          "id": "432c078816438f63601a8a6739b57cbd88848b25",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "title_zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！",
+          "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-12T00:00:00Z"
-        },
+          "published_at": "2026-11-13T18:40:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
         {
-          "id": "c738eb59b1a8d54d399062794ed1874388b1a35d",
-          "title": "美联航禁止人工智能代理为旅客预订机票",
-          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
-          "title_en": null,
-          "title_original": "美联航禁止人工智能代理为旅客预订机票",
+          "id": "01243e8890326cbc6dad58f0babc7f553d980032",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "title_zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！",
+          "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-          "source": "www.cbsnews.com",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-13T18:40:30Z"
+        },
+        {
+          "id": "432c078816438f63601a8a6739b57cbd88848b25",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "title_zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！",
+          "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T18:40:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6373,
+      "importance": 0.6373,
+      "importance_score": 0.6373,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.8899,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T18:40:30Z",
+      "latest_at": "2026-11-13T18:40:30Z",
+      "primary_item": {
+        "id": "01243e8890326cbc6dad58f0babc7f553d980032",
+        "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "title_zh": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！",
+        "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "title_original": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_0946096a5431",
+      "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+      "url": "https://www.aibase.com/news/32317",
+      "primary_url": "https://www.aibase.com/news/32317",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_en": null,
+          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32317",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:45:05.032289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_en": null,
+          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32317",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:45:05.032289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T16:45:05.032289Z",
+      "latest_at": "2026-11-13T16:45:05.032289Z",
+      "primary_item": {
+        "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+        "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "title_en": null,
+        "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32317",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_eae1d10f1c41",
+      "title": "万字长文｜DeepSeek Harness 完全指南，打造你的专属工作台",
+      "url": "https://waytoagi.feishu.cn/wiki/Ous6wVjvSizC2FkbWn0chTgRnAc?from=from_copylink",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/Ous6wVjvSizC2FkbWn0chTgRnAc?from=from_copylink",
+      "source": "社区更新 · 2026-11-12",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "7b17dd02020e07aae4c105f9654b0ac13f1a8bc5",
+          "title": "万字长文｜DeepSeek Harness 完全指南，打造你的专属工作台",
+          "title_zh": "万字长文｜DeepSeek Harness 完全指南，打造你的专属工作台",
+          "title_en": null,
+          "title_original": "万字长文｜DeepSeek Harness 完全指南，打造你的专属工作台",
+          "summary": "装好 DeepSeek Harness 后却卡在一众插件前：该装哪个？装完去哪找？这篇文章从桌面端安装讲起，把 7 款工作台按上手难度分好类，覆盖自媒体排版、产品原型、小游戏等场景，或许可以帮你快速找到最适合你的插件。",
+          "recommend_reason_zh": null,
+          "url": "https://waytoagi.feishu.cn/wiki/Ous6wVjvSizC2FkbWn0chTgRnAc?from=from_copylink",
+          "source": "社区更新 · 2026-11-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T02:45:05.032289Z"
+        },
+        {
+          "id": "decf0263ae87e69ba6efb92adb09b9c6ac9ecac5",
+          "title": "DeepSeek Harness 完全指南，打造你的专属工作台",
+          "title_zh": "DeepSeek Harness 完全指南，打造你的专属工作台",
+          "title_en": null,
+          "title_original": "DeepSeek Harness 完全指南，打造你的专属工作台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://juejin.cn/post/7707106224123166755",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T02:45:44.533000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "juejin",
+        "社区更新 · 2026-11-12"
+      ],
+      "items": [
+        {
+          "id": "7b17dd02020e07aae4c105f9654b0ac13f1a8bc5",
+          "title": "万字长文｜DeepSeek Harness 完全指南，打造你的专属工作台",
+          "title_zh": "万字长文｜DeepSeek Harness 完全指南，打造你的专属工作台",
+          "title_en": null,
+          "title_original": "万字长文｜DeepSeek Harness 完全指南，打造你的专属工作台",
+          "summary": "装好 DeepSeek Harness 后却卡在一众插件前：该装哪个？装完去哪找？这篇文章从桌面端安装讲起，把 7 款工作台按上手难度分好类，覆盖自媒体排版、产品原型、小游戏等场景，或许可以帮你快速找到最适合你的插件。",
+          "recommend_reason_zh": null,
+          "url": "https://waytoagi.feishu.cn/wiki/Ous6wVjvSizC2FkbWn0chTgRnAc?from=from_copylink",
+          "source": "社区更新 · 2026-11-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-14T02:45:05.032289Z"
+        },
+        {
+          "id": "decf0263ae87e69ba6efb92adb09b9c6ac9ecac5",
+          "title": "DeepSeek Harness 完全指南，打造你的专属工作台",
+          "title_zh": "DeepSeek Harness 完全指南，打造你的专属工作台",
+          "title_en": null,
+          "title_original": "DeepSeek Harness 完全指南，打造你的专属工作台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://juejin.cn/post/7707106224123166755",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T02:45:44.533000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T02:45:05.032289Z",
+      "latest_at": "2026-11-14T02:45:44.533000Z",
+      "primary_item": {
+        "id": "7b17dd02020e07aae4c105f9654b0ac13f1a8bc5",
+        "title": "万字长文｜DeepSeek Harness 完全指南，打造你的专属工作台",
+        "title_zh": "万字长文｜DeepSeek Harness 完全指南，打造你的专属工作台",
+        "title_en": null,
+        "title_original": "万字长文｜DeepSeek Harness 完全指南，打造你的专属工作台",
+        "summary": "装好 DeepSeek Harness 后却卡在一众插件前：该装哪个？装完去哪找？这篇文章从桌面端安装讲起，把 7 款工作台按上手难度分好类，覆盖自媒体排版、产品原型、小游戏等场景，或许可以帮你快速找到最适合你的插件。",
+        "recommend_reason_zh": null,
+        "url": "https://waytoagi.feishu.cn/wiki/Ous6wVjvSizC2FkbWn0chTgRnAc?from=from_copylink",
+        "source": "社区更新 · 2026-11-12",
+        "source_name": "WaytoAGI"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_ed65cd0cb55d",
+      "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+      "url": "https://www.aibase.com/news/32314",
+      "primary_url": "https://www.aibase.com/news/32314",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a5364afe70588a4c086bf840f190d495981effff",
+          "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+          "title_zh": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+          "title_en": null,
+          "title_original": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:45:05.032289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a5364afe70588a4c086bf840f190d495981effff",
+          "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+          "title_zh": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+          "title_en": null,
+          "title_original": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:45:05.032289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T16:45:05.032289Z",
+      "latest_at": "2026-11-13T16:45:05.032289Z",
+      "primary_item": {
+        "id": "a5364afe70588a4c086bf840f190d495981effff",
+        "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+        "title_zh": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+        "title_en": null,
+        "title_original": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32314",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_cf4a6103a8ec",
+      "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+      "url": "https://www.aibase.com/news/32318",
+      "primary_url": "https://www.aibase.com/news/32318",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
+          "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+          "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+          "title_en": null,
+          "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32318",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:45:05.032289Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
+          "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+          "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+          "title_en": null,
+          "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32318",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:45:05.032289Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T16:45:05.032289Z",
+      "latest_at": "2026-11-13T16:45:05.032289Z",
+      "primary_item": {
+        "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
+        "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+        "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+        "title_en": null,
+        "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32318",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_4f653b7130ea",
+      "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "primary_url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "source": "www.perplexity.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7291c4476b2dfa6b4903699500d8ade2b3b7d8bf",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_zh": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_en": null,
+          "title_original": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "source": "www.perplexity.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-11T22:36:01.186000Z"
+          "published_at": "2026-11-14T02:39:53.814000Z"
         },
         {
-          "id": "a898052c9677f592cd22b3aebac895dc3e06fea4",
-          "title": "美联航禁止人工智能代理为旅客预订机票 / United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
-          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "id": "bb54ee24d70dd3b94f1dccfdce3ee044b1b878e2",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景 / Perplexity Decider v1.3: Training, eval, and use cases",
+          "title_zh": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_en": "Perplexity Decider v1.3: Training, eval, and use cases",
+          "title_original": "Perplexity Decider v1.3: Training, eval, and use cases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-11T21:24:35Z"
-        },
-        {
-          "id": "f61fcd21d3637878200b7a9d3a1e74a84cd111e0",
-          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_zh": null,
-          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50458900",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T21:24:35Z"
+          "published_at": "2026-11-13T19:24:47Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Slashdot",
-        "hackernews",
-        "www.cbsnews.com"
+        "www.perplexity.ai"
       ],
       "items": [
         {
-          "id": "d4cac9439147c6f5c2ef9bc4182125f3594be4de",
-          "title": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
-          "title_zh": null,
-          "title_en": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
-          "title_original": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-12T00:00:00Z"
-        },
-        {
-          "id": "c738eb59b1a8d54d399062794ed1874388b1a35d",
-          "title": "美联航禁止人工智能代理为旅客预订机票",
-          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
+          "id": "7291c4476b2dfa6b4903699500d8ade2b3b7d8bf",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_zh": "Perplexity Decider v1.3：训练、评估及应用场景",
           "title_en": null,
-          "title_original": "美联航禁止人工智能代理为旅客预订机票",
+          "title_original": "Perplexity Decider v1.3：训练、评估及应用场景",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-          "source": "www.cbsnews.com",
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "source": "www.perplexity.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-11T22:36:01.186000Z"
+          "published_at": "2026-11-14T02:39:53.814000Z"
         },
         {
-          "id": "a898052c9677f592cd22b3aebac895dc3e06fea4",
-          "title": "美联航禁止人工智能代理为旅客预订机票 / United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
-          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "id": "bb54ee24d70dd3b94f1dccfdce3ee044b1b878e2",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景 / Perplexity Decider v1.3: Training, eval, and use cases",
+          "title_zh": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "title_en": "Perplexity Decider v1.3: Training, eval, and use cases",
+          "title_original": "Perplexity Decider v1.3: Training, eval, and use cases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-11T21:24:35Z"
-        },
+          "published_at": "2026-11-13T19:24:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9988,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T19:24:47Z",
+      "latest_at": "2026-11-14T02:39:53.814000Z",
+      "primary_item": {
+        "id": "7291c4476b2dfa6b4903699500d8ade2b3b7d8bf",
+        "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+        "title_zh": "Perplexity Decider v1.3：训练、评估及应用场景",
+        "title_en": null,
+        "title_original": "Perplexity Decider v1.3：训练、评估及应用场景",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+        "source": "www.perplexity.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T02:45:59.847174Z"
+      }
+    },
+    {
+      "story_id": "story_e1cd227ad611",
+      "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "primary_url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
         {
-          "id": "f61fcd21d3637878200b7a9d3a1e74a84cd111e0",
-          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_zh": null,
-          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50458900",
+          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:28:11Z"
+        },
+        {
+          "id": "09c03475580e31d548233207197f9127496e8641",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50492141",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-11T21:24:35Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.587,
-      "importance": 0.587,
-      "importance_score": 0.587,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9514,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-11T21:24:35Z",
-      "latest_at": "2026-11-12T00:00:00Z",
-      "primary_item": {
-        "id": "d4cac9439147c6f5c2ef9bc4182125f3594be4de",
-        "title": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
-        "title_zh": null,
-        "title_en": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
-        "title_original": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_ae92b5f25cb6",
-      "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-      "url": "https://www.aibase.com/news/32261",
-      "primary_url": "https://www.aibase.com/news/32261",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "264cf989d10b6029c6638437f37f972480ae7613",
-          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "title_zh": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "title_en": null,
-          "title_original": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32261",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "264cf989d10b6029c6638437f37f972480ae7613",
-          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "title_zh": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "title_en": null,
-          "title_original": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32261",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:27:09.876851Z",
-      "latest_at": "2026-11-12T03:27:09.876851Z",
-      "primary_item": {
-        "id": "264cf989d10b6029c6638437f37f972480ae7613",
-        "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-        "title_zh": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-        "title_en": null,
-        "title_original": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32261",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_267a987b3895",
-      "title": "软件工程中的人工智能、活动与成果",
-      "url": "https://cabird.com/talks/shipping-faster",
-      "primary_url": "https://cabird.com/talks/shipping-faster",
-      "source": "cabird.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "209fd92c42fb035fd11882951f724f35733d59cc",
-          "title": "软件工程中的人工智能、活动与成果",
-          "title_zh": "软件工程中的人工智能、活动与成果",
-          "title_en": null,
-          "title_original": "软件工程中的人工智能、活动与成果",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cabird.com/talks/shipping-faster",
-          "source": "cabird.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T22:36:01.183000Z"
-        },
-        {
-          "id": "caa342e45a3e752f43887c7afea853acb96018fb",
-          "title": "软件工程中的人工智能、活动与成果 / AI, activity, and outcomes in software engineering",
-          "title_zh": "软件工程中的人工智能、活动与成果",
-          "title_en": "AI, activity, and outcomes in software engineering",
-          "title_original": "AI, activity, and outcomes in software engineering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cabird.com/talks/shipping-faster",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-11T16:33:28Z"
+          "published_at": "2026-11-14T00:28:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "cabird.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "209fd92c42fb035fd11882951f724f35733d59cc",
-          "title": "软件工程中的人工智能、活动与成果",
-          "title_zh": "软件工程中的人工智能、活动与成果",
-          "title_en": null,
-          "title_original": "软件工程中的人工智能、活动与成果",
+          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cabird.com/talks/shipping-faster",
-          "source": "cabird.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T22:36:01.183000Z"
+          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:28:11Z"
         },
         {
-          "id": "caa342e45a3e752f43887c7afea853acb96018fb",
-          "title": "软件工程中的人工智能、活动与成果 / AI, activity, and outcomes in software engineering",
-          "title_zh": "软件工程中的人工智能、活动与成果",
-          "title_en": "AI, activity, and outcomes in software engineering",
-          "title_original": "AI, activity, and outcomes in software engineering",
+          "id": "09c03475580e31d548233207197f9127496e8641",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cabird.com/talks/shipping-faster",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-11T16:33:28Z"
+          "url": "https://news.ycombinator.com/item?id=50492141",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T00:28:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9323,
+        "recency": 0.9676,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-11T16:33:28Z",
-      "latest_at": "2026-11-11T22:36:01.183000Z",
+      "earliest_at": "2026-11-14T00:28:11Z",
+      "latest_at": "2026-11-14T00:28:11Z",
       "primary_item": {
-        "id": "209fd92c42fb035fd11882951f724f35733d59cc",
-        "title": "软件工程中的人工智能、活动与成果",
-        "title_zh": "软件工程中的人工智能、活动与成果",
-        "title_en": null,
-        "title_original": "软件工程中的人工智能、活动与成果",
+        "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
+        "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+        "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+        "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+        "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://cabird.com/talks/shipping-faster",
-        "source": "cabird.com",
-        "source_name": "Buzzing"
+        "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_80e92dfa823e",
-      "title": "退休储蓄正在助长人工智能泡沫",
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
-      "primary_url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
-      "source": "lpeproject.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ab784975a20114da2dd6a1535b8d91735d10c1b9",
-          "title": "退休储蓄正在助长人工智能泡沫",
-          "title_zh": "退休储蓄正在助长人工智能泡沫",
-          "title_en": null,
-          "title_original": "退休储蓄正在助长人工智能泡沫",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
-          "source": "lpeproject.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T21:32:55.553000Z"
-        },
-        {
-          "id": "cfee1c05cbe207aadea45b05b2fa09ac84dfabe8",
-          "title": "退休储蓄正在助长人工智能泡沫 / Retirement Savings Are Fueling the AI Bubble",
-          "title_zh": "退休储蓄正在助长人工智能泡沫",
-          "title_en": "Retirement Savings Are Fueling the AI Bubble",
-          "title_original": "Retirement Savings Are Fueling the AI Bubble",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-11T19:06:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "lpeproject.org"
-      ],
-      "items": [
-        {
-          "id": "ab784975a20114da2dd6a1535b8d91735d10c1b9",
-          "title": "退休储蓄正在助长人工智能泡沫",
-          "title_zh": "退休储蓄正在助长人工智能泡沫",
-          "title_en": null,
-          "title_original": "退休储蓄正在助长人工智能泡沫",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
-          "source": "lpeproject.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T21:32:55.553000Z"
-        },
-        {
-          "id": "cfee1c05cbe207aadea45b05b2fa09ac84dfabe8",
-          "title": "退休储蓄正在助长人工智能泡沫 / Retirement Savings Are Fueling the AI Bubble",
-          "title_zh": "退休储蓄正在助长人工智能泡沫",
-          "title_en": "Retirement Savings Are Fueling the AI Bubble",
-          "title_original": "Retirement Savings Are Fueling the AI Bubble",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-11T19:06:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9183,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-11T19:06:43Z",
-      "latest_at": "2026-11-11T21:32:55.553000Z",
-      "primary_item": {
-        "id": "ab784975a20114da2dd6a1535b8d91735d10c1b9",
-        "title": "退休储蓄正在助长人工智能泡沫",
-        "title_zh": "退休储蓄正在助长人工智能泡沫",
-        "title_en": null,
-        "title_original": "退休储蓄正在助长人工智能泡沫",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
-        "source": "lpeproject.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
-      }
-    },
-    {
-      "story_id": "story_e74ea6eb9374",
-      "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-      "url": "https://www.aibase.com/news/32255",
-      "primary_url": "https://www.aibase.com/news/32255",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
-          "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "title_zh": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "title_en": null,
-          "title_original": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32255",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
-          "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "title_zh": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "title_en": null,
-          "title_original": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32255",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:27:09.876851Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:27:09.876851Z",
-      "latest_at": "2026-11-12T03:27:09.876851Z",
-      "primary_item": {
-        "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
-        "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-        "title_zh": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-        "title_en": null,
-        "title_original": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32255",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T03:35:39.538557Z"
+        "scored_at": "2026-11-14T02:45:59.847174Z"
       }
     }
   ]
